@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="static/future-trading.jpeg" height=200 alt=""/>
   <h1>Awesome Datasets</h1>
 </div>
 
