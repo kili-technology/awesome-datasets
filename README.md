@@ -700,6 +700,8 @@ Multilingual Datasets for Chatbot Training
 
 ### Defect detection
 
+- [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection) This dataset if about localizing and classifying surface defects on a steel sheet.
+
 ### Visual inspection on infrastructure
 
 ### Packaging quality monitoring
@@ -717,6 +719,22 @@ Multilingual Datasets for Chatbot Training
 ## Safety
 
 ### Fire detection
+
+- [The FLAME dataset](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) This dataset consists of different repositories including raw aerial videos recorded by drones' cameras and also raw heatmap footage recorded by an infrared thermal camera.
+- [FireNET](https://github.com/OlafenwaMoses/FireNET) - approx. 500 fire images with bounding boxes in pascal voc XML format. Repo contains trained Yolo3 model trained using [imageai](https://github.com/OlafenwaMoses/ImageAI), unknown performance. However small images, 275x183 pixels on average, meaning there are fewer textural features for a network to learn.
+- [Fire Detection from CCTV on Kaggle](https://www.kaggle.com/ritupande/fire-detection-from-cctv) - images and video, images are extracted from video, relatively small dataset with all images only taken from 3-4 videos. Quite relevant to current task as have videos to test on. Dataset organised for classification task of normal/smoke/fire, no bounding box annotations
+- [cair/Fire-Detection-Image-Dataset](https://github.com/cair/Fire-Detection-Image-Dataset) - This dataset contains many normal images and 111 images with fire. Dataset is highly unbalanced to reciprocate real world situations. Images are decent size but not annotated.
+- [mivia Fire Detection Dataset](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/) - approx. 30 videos
+- [USTC smoke detection](http://smoke.ustc.edu.cn/datasets.htm) - links to various sources that provide videos of smoke
+- fire/not-fire dataset in the pyimagesearch article can be downloaded. Note that there are many images of fire scenes that do not contain actual fire, but burnt out homes for example.
+- [FIRE Dataset on Kaggle](https://www.kaggle.com/phylake1337/fire-dataset) - 755 outdoor fire images and 244 non-fire images. Images are decent size but not annotated
+- [Fire Image Data Set for Dunnings 2018 study](https://collections.durham.ac.uk/files/r2d217qp536#.X2rv1ZNKidb) - PNG still image set
+- [Fire Superpixel Image Data Set for Samarth 2019 study](https://collections.durham.ac.uk/files/r10r967374q#.X2rv1pNKidb) - PNG still image set
+- [Wildfire Smoke Dataset](https://public.roboflow.com/object-detection/wildfire-smoke) - 737 annotated (bounding boxed) images
+- [Dataset by jackfrost1411](https://github.com/jackfrost1411/fire-detection) -> several hundred images sorted into fire/neutral for classification task. No bounding box annotations
+- [fire-and-smoke-dataset on Kaggle](https://www.kaggle.com/dataclusterlabs/fire-and-smoke-dataset) -> 7000+ images, consisting of 691 flame only images, 3721 smoke only images, and 4207 fire {flame & smoke} images
+- [Domestic-Fire-and-Smoke-Dataset](https://github.com/datacluster-labs/Domestic-Fire-and-Smoke-Dataset) -> Approx. 5000 unique images, 2-class (fire and smoke), bounding box annotation, COCO, PASCAL VOC and YOLO formats
+- [kaggle fire-and-gun-dataset](https://www.kaggle.com/atulyakumar98/fire-and-gun-dataset)
 
 ### Workers’ behavior monitoring to detect safety rules abidance 
 
@@ -953,6 +971,7 @@ Multilingual Datasets for Chatbot Training
 
 ### Wildfire detection 
 
+- [1.88 Million US Wildfires](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires) This data publication contains a spatial database of wildfires that occurred in the United States from 1992 to 2015. It is the third update of a publication originally generated to support the national Fire Program Analysis (FPA) system. The wildfire records were acquired from the reporting systems of federal, state, and local fire organizations. The following core data elements were required for records to be included in this data publication: discovery date, final fire size, and a point location at least as precise as Public Land Survey System (PLSS) section (1-square mile grid). The data were transformed to conform, when possible, to the data standards of the National Wildfire Coordinating Group (NWCG). Basic error-checking was performed and redundant records were identified and removed, to the degree possible. The resulting product, referred to as the Fire Program Analysis fire-occurrence database (FPA FOD), includes 1.88 million geo-referenced wildfire records, representing a total of 140 million acres burned during the 24-year period.
 
 ## Waste
 
