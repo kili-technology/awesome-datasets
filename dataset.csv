@@ -1,0 +1,19 @@
+Industry;Department;UseCase;MLTask;Name;Url;Description
+Agriculture;Production;Grading and sorting of produce;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Production;Weed detection;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Production;Crop health tracking;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Production;Crop maturity monitoring;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Production;Soil health monitoring;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Livestock;Animal counting;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Livestock;Disease/Unusual behaviour detection;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Equipment;Autonomous machines (e.g tractors);Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Treatment;Insect detection;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Treatment;Intelligent fertilizing;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Treatment;Automatic weeding;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Agriculture;Treatment;Intelligent spraying;Image classification;Dataset name;https://www.google.com;Description of dataset.
+Automotive;Sales;Advanced chatbot;Text classification;Dataset name;https://www.google.com;Description of dataset.
+Automotive;Security;In-cockpit driver's behavior monitoring;Text classification;Dataset name;https://www.google.com;Description of dataset.
+Automotive;Maintenance;Vehicle maintenance recommendation;Text classification;Dataset name;https://www.google.com;Description of dataset.
+Automotive;AD/ADAS;On-road video analysis;Text classification;Dataset name;https://www.google.com;Description of dataset.
+Automotive;AD/ADAS;On-road point cloud / multi sensor fusion analysis;Text classification;Dataset name;https://www.google.com;Description of dataset.
+Automotive;Operations;In-car voice assistant;Text classification;Dataset name;https://www.google.com;Description of dataset.
