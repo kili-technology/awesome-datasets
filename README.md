@@ -565,6 +565,12 @@ Multilingual Datasets for Chatbot Training
 
 - [Opin-Rank Review Dataset](https://github.com/kavgan/OpinRank) Opin-Rank Review Dataset contains full reviews on cars and hotels. This data set includes about 2,59,000 hotel reviews and 42,230 car reviews collected from TripAdvisor and Edmunds, respectively. The car dataset has the models from 2007, 2008, 2009 and has about 140-250 cars from each year. The fields include dates, favourites, author names, and full review in text. The dataset contains information from 10 different cities which include Dubai, Beijing, Las Vegas, San Fransisco, etc. There are reviews of about 80-700 hotels from each city. The fields include review, date, title and full-textual review.
 
+More datasets from other industries:
+
+- [Insurance / Customer service / Voice of Customer](#voice-of-customer-1)
+- [Telco / Customer service / Voice of Customer](#voice-of-customer-2)
+- [Utilities / Customer service / Voice of Customer](#voice-of-customer-3)
+
 ## Operations
 
 ### Complex document processing
