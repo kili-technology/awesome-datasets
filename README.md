@@ -24,6 +24,9 @@ We want this resource to grow with contributions from readers and data enthusias
 <!-- omit in toc -->
 # Table of Content
 
+<!-- omit in toc -->
+## Entry points by industry
+
 - [Agriculture](#agriculture)
 - [Automotive](#automotive)
 - [Banking](#banking)
@@ -343,6 +346,31 @@ Coming soon 😘
 
 # Defense & Aerospace
 
+- [Aerospace](#aerospace)
+  - [Autopilot of plane on the tarmac](#autopilot-of-plane-on-the-tarmac)
+  - [Autopilot of plane during the flight](#autopilot-of-plane-during-the-flight)
+  - [Augmented control tower](#augmented-control-tower)
+  - [Earth observation and land composition analysis](#earth-observation-and-land-composition-analysis)
+  - [Maneuver automatic recognition for flight test data analysis](#maneuver-automatic-recognition-for-flight-test-data-analysis)
+- [Surveillance](#surveillance)
+  - [Object detection on image](#object-detection-on-image)
+    - [Boat/Vessel detection](#boatvessel-detection)
+    - [Flying object detection](#flying-object-detection)
+    - [Boat/vessel detection](#boatvessel-detection-1)
+    - [Aerial detection](#aerial-detection)
+  - [Missile targeting (on-missile camera)](#missile-targeting-on-missile-camera)
+  - [Missile targeting (on-plane/launcher camera)](#missile-targeting-on-planelauncher-camera)
+  - [Object detection on video](#object-detection-on-video)
+- [Manufacturing](#manufacturing)
+  - [Complex Document processing](#complex-document-processing-1)
+    - [Compliance](#compliance-2)
+    - [Knowledge management](#knowledge-management)
+    - [Technical documentation](#technical-documentation)
+    - [Quality report](#quality-report)
+  - [Defect detection](#defect-detection)
+  - [Visual inspection on infrastructure](#visual-inspection-on-infrastructure)
+  - [Assisted maintenance (pre-filling of maintenance questionnaire)](#assisted-maintenance-pre-filling-of-maintenance-questionnaire)
+
 ## Aerospace
 
 ### Autopilot of plane on the tarmac
@@ -431,6 +459,23 @@ Coming soon 😘
 
 # Gaming, Media & Entertainment
 
+- [Production](#production-1)
+  - [Content Classification/ Recommandation](#content-classification-recommandation)
+  - [Content Edition](#content-edition)
+  - [Sport shot / footage live selection to broadcast](#sport-shot--footage-live-selection-to-broadcast)
+  - [Subtitles generation](#subtitles-generation)
+  - [Content creation](#content-creation)
+- [Marketing](#marketing)
+  - [Audience / Reviews analysis](#audience--reviews-analysis)
+- [Advertisement](#advertisement)
+  - [Hyper targeted advertising](#hyper-targeted-advertising)
+  - [Hyper targeted personalization](#hyper-targeted-personalization)
+- [Moderation](#moderation)
+  - [By image analysis](#by-image-analysis)
+  - [Using NLP](#using-nlp)
+  - [Toxic players identification using NLP](#toxic-players-identification-using-nlp)
+  - [Toxic players identification using voice analysis](#toxic-players-identification-using-voice-analysis)
+
 ## Production
 
 ### Content Classification/ Recommandation
@@ -488,6 +533,24 @@ Coming soon 😘
 Coming soon 😘
 
 # Healthcare
+
+- [Research](#research)
+  - [Pharmacovigilance](#pharmacovigilance)
+  - [Medical records analysis to help diagnostic](#medical-records-analysis-to-help-diagnostic)
+  - [Patient/doctors recruitment for clinical trials](#patientdoctors-recruitment-for-clinical-trials)
+- [Medical](#medical)
+  - [Disease mention analysis on diagnostic documents](#disease-mention-analysis-on-diagnostic-documents)
+  - [Mental Health support with chatbot](#mental-health-support-with-chatbot)
+  - [Chatbot to provide medical information and suggest diagnostic](#chatbot-to-provide-medical-information-and-suggest-diagnostic)
+  - [Digital Nurse (chatbot to provide care and track user’s health)](#digital-nurse-chatbot-to-provide-care-and-track-users-health)
+  - [Bladder cancer detection](#bladder-cancer-detection)
+  - [Dermatology scans for Melanoma detection](#dermatology-scans-for-melanoma-detection)
+  - [AI-assisted X-Ray for pulmonary diseases](#ai-assisted-x-ray-for-pulmonary-diseases)
+  - [Ophtalmology](#ophtalmology)
+  - [Digital Pathology](#digital-pathology)
+  - [CT and MRI scans analysis to assist Radiologists](#ct-and-mri-scans-analysis-to-assist-radiologists)
+- [Operations](#operations-2)
+  - [Healthcare claims processing](#healthcare-claims-processing)
 
 ## Research
 
@@ -552,6 +615,31 @@ Coming soon 😘
 Coming soon 😘
 
 # Insurance
+
+- [Claims](#claims)
+  - [Damage estimate after accident](#damage-estimate-after-accident)
+  - [Automated pay-outs calculation](#automated-pay-outs-calculation)
+  - [Customer claims call analysis](#customer-claims-call-analysis)
+  - [Damage estimate after Natural disasters](#damage-estimate-after-natural-disasters)
+- [Customer service](#customer-service-1)
+  - [Advanced chatbot inc. policy estimate, claims process](#advanced-chatbot-inc-policy-estimate-claims-process)
+  - [AI Voicebot](#ai-voicebot-1)
+  - [Voice of Customer](#voice-of-customer-1)
+- [Compliance](#compliance-3)
+  - [KYC/KYB automation](#kyckyb-automation-1)
+  - [Fraud detection by Face Recognition](#fraud-detection-by-face-recognition)
+  - [Fraud detection by abnormal behaviors recognition](#fraud-detection-by-abnormal-behaviors-recognition)
+  - [Driver’s behavior analysis](#drivers-behavior-analysis)
+- [Operations](#operations-3)
+  - [Complex Document processing](#complex-document-processing-2)
+    - [Compliance & Legal](#compliance--legal)
+    - [Customer processes](#customer-processes)
+    - [Claims](#claims-1)
+    - [Pre-authorizations](#pre-authorizations)
+- [Underwritting](#underwritting)
+  - [Risk assessment with complementary aerial imagery](#risk-assessment-with-complementary-aerial-imagery)
+  - [Level of exposition estimation in contracts](#level-of-exposition-estimation-in-contracts)
+  - [Underwriting decision optimization](#underwriting-decision-optimization)
 
 ## Claims
 
@@ -641,6 +729,26 @@ Coming soon 😘
 
 # Manufacturing
 
+- [Production](#production-2)
+  - [Bar-code reading](#bar-code-reading)
+  - [Inventory monitoring](#inventory-monitoring)
+  - [Wrong piece/material picking detection](#wrong-piecematerial-picking-detection)
+  - [Worker’s gesture analysis to prevent mistake](#workers-gesture-analysis-to-prevent-mistake)
+  - [Automated product assembly](#automated-product-assembly)
+- [Operations](#operations-4)
+  - [Complex Document processing](#complex-document-processing-3)
+    - [Contracts](#contracts)
+    - [Customer processes](#customer-processes-1)
+    - [Technical documentation](#technical-documentation-1)
+    - [Quality report](#quality-report-1)
+- [Quality/Safety](#qualitysafety)
+  - [Defect detection](#defect-detection-1)
+  - [Visual inspection on infrastructure](#visual-inspection-on-infrastructure-1)
+  - [Packaging quality monitoring](#packaging-quality-monitoring)
+  - [Workers’ behavior monitoring to detect safety rules abidance](#workers-behavior-monitoring-to-detect-safety-rules-abidance)
+  - [Packaging monitoring (correct contenance)](#packaging-monitoring-correct-contenance)
+  - [Predictive maintenance](#predictive-maintenance)
+
 ## Production
 
 ### Bar-code reading
@@ -713,6 +821,21 @@ Coming soon 😘
 
 # Oil & Gas
 
+- [Safety](#safety)
+  - [Fire detection](#fire-detection)
+  - [Workers’ behavior monitoring to detect safety rules abidance](#workers-behavior-monitoring-to-detect-safety-rules-abidance-1)
+- [Exploitation](#exploitation)
+  - [Geological assessment](#geological-assessment)
+  - [Hydraulic fracturing analysis](#hydraulic-fracturing-analysis)
+  - [Real Time drilling monitoring](#real-time-drilling-monitoring)
+- [Maintenance](#maintenance-1)
+  - [Pipeline defect detection](#pipeline-defect-detection)
+  - [Automatic recognition of analog instruments](#automatic-recognition-of-analog-instruments)
+  - [Wireline spooling anomalies detection](#wireline-spooling-anomalies-detection)
+  - [Corrosion detection](#corrosion-detection)
+  - [Field workers assistance with voicebots](#field-workers-assistance-with-voicebots)
+  - [Predictive analytics/maintenance](#predictive-analyticsmaintenance)
+
 ## Safety
 
 ### Fire detection
@@ -779,6 +902,15 @@ Coming soon 😘
 
 # Railway
 
+- [Research](#research-1)
+  - [Defect and obstacle on railway detection](#defect-and-obstacle-on-railway-detection)
+  - [Defect on machines detection (e.g train)](#defect-on-machines-detection-eg-train)
+  - [Signalling detection](#signalling-detection)
+  - [Passenger flux monitoring](#passenger-flux-monitoring)
+  - [Dangerous behavior detection](#dangerous-behavior-detection)
+- [Operations](#operations-5)
+  - [Technical questionnaire processing](#technical-questionnaire-processing)
+
 ## Research
 
 ### Defect and obstacle on railway detection
@@ -808,6 +940,24 @@ Coming soon 😘
 Coming soon 😘
 
 # Retail (e-commerce)
+
+- [Recommendation](#recommendation)
+  - [Make-up / cream recommendation from customer’s face picture](#make-up--cream-recommendation-from-customers-face-picture)
+  - [Recommendation system improvement](#recommendation-system-improvement)
+- [Marketing](#marketing-1)
+  - [Sentiment analysis of reviews / social medias / blogs](#sentiment-analysis-of-reviews--social-medias--blogs)
+  - [Hyper targeted recommendation](#hyper-targeted-recommendation)
+  - [Hyper targeted advertisement](#hyper-targeted-advertisement)
+- [Customer Service](#customer-service-2)
+  - [Advanced chatbot](#advanced-chatbot-2)
+- [Sales](#sales-1)
+  - [Counterfeit product detection](#counterfeit-product-detection)
+  - [Search engine improvement](#search-engine-improvement)
+  - [Virtual dressing rooms](#virtual-dressing-rooms)
+- [Production](#production-3)
+  - [Product categorization from image](#product-categorization-from-image)
+  - [Product search from voice search](#product-search-from-voice-search)
+  - [Product search from image search](#product-search-from-image-search)
 
 ## Recommendation
 
@@ -869,6 +1019,15 @@ Coming soon 😘
 
 # Retail (in-store)
 
+- [Logistics](#logistics)
+  - [Shelf management - Inventory status](#shelf-management---inventory-status)
+  - [Shelf management - Quality monitoring](#shelf-management---quality-monitoring)
+  - [Theft detection](#theft-detection)
+- [Sales](#sales-2)
+  - [Automatic basket analysis](#automatic-basket-analysis)
+  - [In-store tracking of customer’s placement and behaviors/purchase patterns](#in-store-tracking-of-customers-placement-and-behaviorspurchase-patterns)
+  - [Virtual mirrors](#virtual-mirrors)
+
 ## Logistics
 
 ### Shelf management - Inventory status
@@ -898,6 +1057,16 @@ Coming soon 😘
 Coming soon 😘
 
 # Security
+
+- [Surveillance](#surveillance-1)
+  - [Access Control with Facial Recognition](#access-control-with-facial-recognition)
+  - [Restricted area penetration detection](#restricted-area-penetration-detection)
+  - [Theft detection](#theft-detection-1)
+  - [Fire detection](#fire-detection-1)
+  - [Crowd monitoring](#crowd-monitoring)
+  - [Safety behavior compliance monitoring](#safety-behavior-compliance-monitoring)
+  - [Targeted individuals identification with Facial Recognition](#targeted-individuals-identification-with-facial-recognition)
+  - [Dangerous behaviors monitoring](#dangerous-behaviors-monitoring)
 
 ## Surveillance
 
@@ -935,6 +1104,12 @@ Coming soon 😘
 
 # Tech
 
+- [Augmented product intelligence with Automated document processing](#augmented-product-intelligence-with-automated-document-processing)
+- [Generalist document processing](#generalist-document-processing)
+- [Technical document processing](#technical-document-processing)
+- [Legal document processing](#legal-document-processing)
+- [Medical document processing](#medical-document-processing)
+
 ## Augmented product intelligence with Automated document processing
 
 Coming soon 😘
@@ -956,6 +1131,23 @@ Coming soon 😘
 Coming soon 😘
 
 # Telco
+
+- [Operations](#operations-6)
+  - [Complex Document processing](#complex-document-processing-4)
+    - [Compliance](#compliance-4)
+    - [Customer processes](#customer-processes-2)
+    - [Email Processing](#email-processing)
+    - [Technical documentation](#technical-documentation-2)
+    - [Quality report](#quality-report-2)
+- [Customer Service](#customer-service-3)
+  - [Advanced chatbot](#advanced-chatbot-3)
+  - [Voice of Customer](#voice-of-customer-2)
+- [Regulatory](#regulatory)
+  - [Consumption Fraud detection](#consumption-fraud-detection)
+  - [Fraud detection by voice analysis](#fraud-detection-by-voice-analysis)
+- [Maintenance](#maintenance-2)
+  - [Augmented technician](#augmented-technician)
+  - [Visual inspection on infrastructure](#visual-inspection-on-infrastructure-2)
 
 ## Operations
 
@@ -1014,6 +1206,30 @@ Coming soon 😘
 Coming soon 😘
 
 # Utilities
+
+- [Customer Service](#customer-service-4)
+  - [Advanced chatbot](#advanced-chatbot-4)
+  - [Voice of Customer](#voice-of-customer-3)
+- [Engineering](#engineering)
+  - [Technical drawing analysis](#technical-drawing-analysis)
+- [Fraud](#fraud)
+  - [Consumption Fraud detection](#consumption-fraud-detection-1)
+- [Maintenance](#maintenance-3)
+  - [Augmented technician](#augmented-technician-1)
+  - [Vegetation inspection](#vegetation-inspection)
+  - [Visual inspection on infrastructure](#visual-inspection-on-infrastructure-3)
+- [Operations](#operations-7)
+  - [Complex Document processing](#complex-document-processing-5)
+    - [Compliance](#compliance-5)
+    - [Customer processes](#customer-processes-3)
+    - [Technical documentation](#technical-documentation-3)
+    - [Quality report](#quality-report-3)
+  - [Email Processing](#email-processing-1)
+- [Safety](#safety-1)
+  - [Wildfire detection](#wildfire-detection)
+- [Waste](#waste)
+  - [Automated sorting of recyclables](#automated-sorting-of-recyclables)
+  - [Intelligent bins](#intelligent-bins)
 
 ## Customer Service
 
