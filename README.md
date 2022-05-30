@@ -4,6 +4,25 @@
 
 We're collecting (an admittedly opinionated) public data sources in high quality. Most of the data sets listed below are free, however, some are not. They are classified by industry and use case.
 
+List of industries:
+
+- [Agriculture](#agriculture)
+- [Automotive](#automotive)
+- [Banking](#banking)
+- [Defense & Aerospace](#defense--aerospace)
+- [Gaming, Media & Entertainment](#gaming-media--entertainment)
+- [Healthcare](#healthcare)
+- [Insurance](#insurance)
+- [Manufacturing](#manufacturing-1)
+- [Oil & Gas](#oil--gas)
+- [Railway](#railway)
+- [Retail (e-commerce)](#retail-e-commerce)
+- [Retail (in-store)](#retail-in-store)
+- [Security](#security-1)
+- [Tech](#tech)
+- [Telco](#telco)
+- [Utilities](#utilities)
+
 *We're only at the beginning, and you can help by contributing to this GitHub!*
 
 <!-- omit in toc -->
@@ -286,44 +305,92 @@ We want this resource to grow with contributions from readers and data enthusias
 
 # Agriculture
 
+- [Production](#production)
+  - [Grading and sorting of produce](#grading-and-sorting-of-produce)
+  - [Weed detection](#weed-detection)
+  - [Crop health tracking](#crop-health-tracking)
+  - [Crop maturity monitoring](#crop-maturity-monitoring)
+  - [Soil health monitoring](#soil-health-monitoring)
+- [Livestock](#livestock)
+  - [Animal counting](#animal-counting)
+  - [Disease/Unusual behaviour detection](#diseaseunusual-behaviour-detection)
+- [Equipment](#equipment)
+  - [Autonomous machines (e.g tractors)](#autonomous-machines-eg-tractors)
+- [Treatment](#treatment)
+  - [Insect detection](#insect-detection)
+  - [Intelligent fertilizing](#intelligent-fertilizing)
+  - [Automatic weeding](#automatic-weeding)
+  - [Intelligent spraying](#intelligent-spraying)
+
 ## Production
 
 ### Grading and sorting of produce
 
+Coming soon 😘
+
 ### Weed detection
+
+Coming soon 😘
 
 ### Crop health tracking
 
+Coming soon 😘
+
 ### Crop maturity monitoring
+
+Coming soon 😘
 
 ### Soil health monitoring
 
+Coming soon 😘
 
 ## Livestock
 
 ### Animal counting
 
+Coming soon 😘
+
 ### Disease/Unusual behaviour detection
 
+Coming soon 😘
 
 ## Equipment
 
 ### Autonomous machines (e.g tractors)
 
+Coming soon 😘
 
 ## Treatment
 
 ### Insect detection
 
+Coming soon 😘
+
 ### Intelligent fertilizing
+
+Coming soon 😘
 
 ### Automatic weeding
 
+Coming soon 😘
+
 ### Intelligent spraying
 
-
+Coming soon 😘
 
 # Automotive
+
+- [Sales](#sales)
+  - [Advanced chatbot](#advanced-chatbot)
+- [Security](#security)
+  - [In-cockpit driver’s behavior monitoring](#in-cockpit-drivers-behavior-monitoring)
+- [Maintenance](#maintenance)
+  - [Vehicle maintenance recommendation](#vehicle-maintenance-recommendation)
+- [AD/ADAS](#adadas)
+  - [On-road video analysis](#on-road-video-analysis)
+  - [On-road point cloud / multi sensor fusion analysis](#on-road-point-cloud--multi-sensor-fusion-analysis)
+- [Operations](#operations)
+  - [In-car voice assistant](#in-car-voice-assistant)
 
 ## Sales
 
@@ -335,31 +402,57 @@ We want this resource to grow with contributions from readers and data enthusias
 
 ### In-cockpit driver’s behavior monitoring
 
+Coming soon 😘
 
 ## Maintenance
 
 ### Vehicle maintenance recommendation
 
+Coming soon 😘
 
 ## AD/ADAS
 
 ### On-road video analysis
 
+Coming soon 😘
+
 ### On-road point cloud / multi sensor fusion analysis
+
+Coming soon 😘
 
 ## Operations
 
 ### In-car voice assistant
 
+Coming soon 😘
 
 # Banking
+
+- [Compliance](#compliance)
+  - [KYC/KYB automation](#kyckyb-automation)
+  - [Fraud detection](#fraud-detection)
+- [Customer Service](#customer-service)
+  - [Advanced chatbot](#advanced-chatbot-1)
+  - [AI Voicebot](#ai-voicebot)
+  - [Voice of Customer](#voice-of-customer)
+- [Operations](#operations-1)
+  - [Complex document processing](#complex-document-processing)
+    - [Compliance](#compliance-1)
+    - [Legal](#legal)
+    - [Customer process](#customer-process)
+  - [Email classification](#email-classification)
+  - [Financial Spreading automation](#financial-spreading-automation)
+  - [Invoice processing](#invoice-processing)
 
 ## Compliance
 
 ### KYC/KYB automation
 
+Coming soon 😘
+
 ### Fraud detection
 
+- [Credit Card Transactions](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions) 284,000 transactions over two days, of which less than 500 are fraudulent.
 
 ## Customer Service
 
@@ -445,23 +538,50 @@ Multilingual Datasets for Chatbot Training
 
 - [OPUS](http://opus.nlpl.eu/) is a growing collection of translated texts from the web. In the OPUS project they try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. It contains dialog datasets as well as other types of datasets.
 
-
 ### AI Voicebot 
 
+- [Multilingual Spoken Words Corpus](https://mlcommons.org/en/multilingual-spoken-words/) A large and growing audio dataset of spoken words in 50 languages for academic research and commercial applications in keyword spotting and spoken term search, licensed under CC-BY 4.0. The dataset contains more than 340,000 keywords, totaling 23.4 million 1-second spoken examples (over 6,000 hours).
+- [People’s Speech](https://mlcommons.org/en/peoples-speech/) The People’s Speech Dataset is among the world’s largest English speech recognition corpus today that is licensed for academic and commercial usage under CC-BY-SA and CC-BY 4.0. It includes 30,000+ hours of transcribed speech in English languages with a diverse set of speakers. This open dataset is large enough to train speech-to-text systems and crucially is available with a permissive license. Just as ImageNet catalyzed machine learning for vision,the People’s Speech will unleash innovation in speech research and products that are available to users across the globe.
 
 ### Voice of Customer
 
+- [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/) Amazon product data is a subset of a large 142.8 million Amazon review dataset that was made available by Stanford professor, Julian McAuley. This sentiment analysis dataset contains reviews from May 1996 to July 2014. The dataset reviews include ratings, text, helpfull votes, product description, category information, price, brand, and image features.
+
+- [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/code.html) This dataset contains just over 10,000 pieces of Stanford data from HTML files of Rotten Tomatoes. The sentiments are rated between 1 and 25, where one is the most negative and 25 is the most positive. The deep learning model by Stanford has been built on the representation of sentences based on the sentence structure instead just giving points based on the positive and negative words. 
+
+- [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/) This dataset contains positive and negative files for thousands of Amazon products. Although the reviews are for older products, this data set is excellent to use. The data derives from the Department of Computer Science at John Hopkins University.
+
+- [IMDB Movie Reviews Dataset](https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset) This large movie dataset contains a collection of about 50,000 movie reviews from IMDB. In this dataset, only highly polarised reviews are being considered. The positive and negative reviews are even in number; however, the negative review has a score of ≤ 4 out of 10, and the positive review has a score of ≥ 7 out of 10.
+
+- [Sentiment140](http://help.sentiment140.com/for-students) Sentiment140 is used to discover the sentiment of a brand or product or even a topic on the social media platform Twitter. Rather than working on keywords-based approach, which leverages high precision for lower recall, Sentiment140 works with classifiers built from machine learning algorithms. The Sentiment140 uses classification results for individual tweets along with the traditional surface that aggregated metrics. The Sentiment140 is used for brand management, polling, and planning a purchase.
+
+- [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) This sentiment analysis dataset contains tweets since Feb 2015 about each of the major US airline. Each tweet is classified either positive, negative or neutral. The included features including Twitter ID, sentiment confidence score, sentiments, negative reasons, airline name, retweet count, name, tweet text, tweet coordinates, date and time of the tweet, and the location of the tweet.
+
+- [Paper Reviews Data Set](https://archive.ics.uci.edu/ml/datasets/Paper+Reviews) Paper Reviews Data Set contains reviews from English and Spanish languages on computing and informatics conferences. The algorithm used will predict the opinions of academic paper reviews. Most of the dataset for the sentiment analysis of this type is sent in Spanish. It has a total of instances of N=405 evaluated with a 5-point scale, -2: very negative, -1: neutral, 1: positive, 2: very positive. The distribution of the scores is uniform, and there exists a difference between the way the paper is evaluated and the review written by the original reviewer.
+
+- [Sentiment Lexicons For 81 Languages](https://www.kaggle.com/rtatman/sentiment-lexicons-for-81-languages) Sentiment Lexicons for 81 Languages contains languages from Afrikaans to Yiddish. This data includes both positive and negative sentiment lexicons for a total of 81 languages. These lexica were generated via graph propagation for the sentiment analysis based on a knowledge graph which is a graphical representation of real-world objects and the relationship between them. The general idea is that words closely linked on a knowledge graph may have similar sentiment polarities. The sentiments were built based on English sentiment lexicons.
+
+- [Lexicoder Sentiment Dictionary](http://www.lexicoder.com/) This dataset for the sentiment analysis is designed to be used within the Lexicoder, which performs the content analysis. This dictionary consists of 2,858 negative sentiment words and 1,709 positive sentiment words. In addition to that, 2,860 negations of negative and 1,721 positive words are also included. Anyone willing to test this is advised by the developers to subtract negated positive words from positive counts and subtract the negated negative words from the negative count.
+
+- [Opin-Rank Review Dataset](https://github.com/kavgan/OpinRank) Opin-Rank Review Dataset contains full reviews on cars and hotels. This data set includes about 2,59,000 hotel reviews and 42,230 car reviews collected from TripAdvisor and Edmunds, respectively. The car dataset has the models from 2007, 2008, 2009 and has about 140-250 cars from each year. The fields include dates, favourites, author names, and full review in text. The dataset contains information from 10 different cities which include Dubai, Beijing, Las Vegas, San Fransisco, etc. There are reviews of about 80-700 hotels from each city. The fields include review, date, title and full-textual review.
 
 ## Operations
 
 ### Complex document processing
 
+Coming soon 😘
+
 #### Compliance
+
+Coming soon 😘
 
 #### Legal
 
+Coming soon 😘
+
 #### Customer process
 
+Coming soon 😘
 
 ### Email classification
 
@@ -469,6 +589,8 @@ Multilingual Datasets for Chatbot Training
 - [UC Berkeley Enron Email Analysis](https://bailando.berkeley.edu/enron_email.html) A categorized version of the Enron Email Dataset. Main topics are: coarse genre, included/forwarded information, primary topics, and emotional tone.
 
 ### Financial Spreading automation
+
+Coming soon 😘
 
 ### Invoice processing
 
@@ -480,14 +602,23 @@ Multilingual Datasets for Chatbot Training
 
 ### Autopilot of plane on the tarmac
 
+Coming soon 😘
+
 ### Autopilot of plane during the flight
+
+Coming soon 😘
 
 ### Augmented control tower
 
+Coming soon 😘
+
 ### Earth observation and land composition analysis
+
+Coming soon 😘
 
 ### Maneuver automatic recognition for flight test data analysis
 
+Coming soon 😘
 
 ## Surveillance
 
@@ -495,40 +626,63 @@ Multilingual Datasets for Chatbot Training
 
 #### Boat/Vessel detection
 
+Coming soon 😘
+
 #### Flying object detection
+
+Coming soon 😘
 
 #### Boat/vessel detection
 
+Coming soon 😘
+
 #### Aerial detection
+
+Coming soon 😘
 
 ### Missile targeting (on-missile camera)
 
+Coming soon 😘
+
 ### Missile targeting (on-plane/launcher camera)
+
+Coming soon 😘
 
 ### Object detection on video
 
+Coming soon 😘
 
 ## Manufacturing
 
 ### Complex Document processing
 
-- [The RVL-CDIP Dataset](http://www.cs.cmu.edu/~aharley/rvl-cdip/) The RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) dataset consists of 400,000 grayscale images in 16 classes, with 25,000 images per class. There are 320,000 training images, 40,000 validation images, and 40,000 test images. The images are sized so their largest dimension does not exceed 1000 pixels.
-
 #### Compliance
+
+- [The RVL-CDIP Dataset](http://www.cs.cmu.edu/~aharley/rvl-cdip/) The RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) dataset consists of 400,000 grayscale images in 16 classes, with 25,000 images per class. There are 320,000 training images, 40,000 validation images, and 40,000 test images. The images are sized so their largest dimension does not exceed 1000 pixels.
 
 #### Knowledge management
 
+Coming soon 😘
+
 #### Technical documentation
+
+Coming soon 😘
 
 #### Quality report
 
+Coming soon 😘
+
 ### Defect detection
+
+Coming soon 😘
 
 ### Visual inspection on infrastructure
 
+Coming soon 😘
+
 ### Assisted maintenance (pre-filling of maintenance questionnaire)
 
-
+Coming soon 😘
 
 # Gaming, Media & Entertainment
 
@@ -536,37 +690,57 @@ Multilingual Datasets for Chatbot Training
 
 ### Content Classification/ Recommandation
 
+Coming soon 😘
+
 ### Content Edition
+
+Coming soon 😘
 
 ### Sport shot / footage live selection to broadcast
 
+Coming soon 😘
+
 ### Subtitles generation
 
+Coming soon 😘
+
 ### Content creation
+
+Coming soon 😘
 
 ## Marketing
 
 ### Audience / Reviews analysis
 
+Coming soon 😘
 
 ## Advertisement
 
 ### Hyper targeted advertising
 
-### Hyper targeted personalization 
+Coming soon 😘
 
+### Hyper targeted personalization
+
+Coming soon 😘
 
 ## Moderation
 
 ### By image analysis
 
+Coming soon 😘
+
 ### Using NLP
+
+Coming soon 😘
 
 ### Toxic players identification using NLP
 
+Coming soon 😘
+
 ### Toxic players identification using voice analysis
 
-
+Coming soon 😘
 
 # Healthcare
 
@@ -574,52 +748,83 @@ Multilingual Datasets for Chatbot Training
 
 ### Pharmacovigilance
 
+Coming soon 😘
+
 ### Medical records analysis to help diagnostic
 
-### Patient/doctors recruitment for clinical trials 
+Coming soon 😘
 
+### Patient/doctors recruitment for clinical trials
+
+Coming soon 😘
 
 ## Medical
 
-### Disease mention analysis on diagnostic documents 
+### Disease mention analysis on diagnostic documents
+
+Coming soon 😘
 
 ### Mental Health support with chatbot
 
+Coming soon 😘
+
 ### Chatbot to provide medical information and suggest diagnostic
+
+Coming soon 😘
 
 ### Digital Nurse (chatbot to provide care and track user’s health)
 
+Coming soon 😘
+
 ### Bladder cancer detection
+
+Coming soon 😘
 
 ### Dermatology scans for Melanoma detection
 
+Coming soon 😘
+
 ### AI-assisted X-Ray for pulmonary diseases
+
+Coming soon 😘
 
 ### Ophtalmology
 
+Coming soon 😘
+
 ### Digital Pathology
+
+Coming soon 😘
 
 ### CT and MRI scans analysis to assist Radiologists
 
+Coming soon 😘
 
 ## Operations
 
 ### Healthcare claims processing
 
+Coming soon 😘
 
 # Insurance
 
 ## Claims
 
-### Damage estimate after accident 
+### Damage estimate after accident
+
+Coming soon 😘
 
 ### Automated pay-outs calculation
 
+Coming soon 😘
+
 ### Customer claims call analysis
+
+Coming soon 😘
 
 ### Damage estimate after Natural disasters
 
-
+Coming soon 😘
 
 ## Customer service
 
@@ -629,19 +834,29 @@ Multilingual Datasets for Chatbot Training
 
 ### AI Voicebot 
 
+Coming soon 😘
+
 ### Voice of Customer
 
+Coming soon 😘
 
 ## Compliance
 
 ### KYC/KYB automation 
 
+Coming soon 😘
+
 ### Fraud detection by Face Recognition
+
+Coming soon 😘
 
 ### Fraud detection by abnormal behaviors recognition
 
+Coming soon 😘
+
 ### Driver’s behavior analysis
 
+Coming soon 😘
 
 ## Operations
 
@@ -651,21 +866,33 @@ Multilingual Datasets for Chatbot Training
 
 #### Compliance & Legal
 
+Coming soon 😘
+
 #### Customer processes
+
+Coming soon 😘
 
 #### Claims
 
+Coming soon 😘
+
 #### Pre-authorizations
 
+Coming soon 😘
 
 ## Underwritting
 
 ### Risk assessment with complementary aerial imagery
 
+Coming soon 😘
+
 ### Level of exposition estimation in contracts
+
+Coming soon 😘
 
 ### Underwriting decision optimization
 
+Coming soon 😘
 
 # Manufacturing
 
@@ -673,14 +900,23 @@ Multilingual Datasets for Chatbot Training
 
 ### Bar-code reading
 
+Coming soon 😘
+
 ### Inventory monitoring
+
+Coming soon 😘
 
 ### Wrong piece/material picking detection
 
+Coming soon 😘
+
 ### Worker’s gesture analysis to prevent mistake
+
+Coming soon 😘
 
 ### Automated product assembly
 
+Coming soon 😘
 
 ## Operations
 
@@ -690,11 +926,19 @@ Multilingual Datasets for Chatbot Training
 
 #### Contracts
 
+Coming soon 😘
+
 #### Customer processes
+
+Coming soon 😘
 
 #### Technical documentation
 
+Coming soon 😘
+
 #### Quality report
+
+Coming soon 😘
 
 ## Quality/Safety
 
@@ -704,15 +948,23 @@ Multilingual Datasets for Chatbot Training
 
 ### Visual inspection on infrastructure
 
+Coming soon 😘
+
 ### Packaging quality monitoring
+
+Coming soon 😘
 
 ### Workers’ behavior monitoring to detect safety rules abidance 
 
+Coming soon 😘
+
 ### Packaging monitoring (correct contenance)
+
+Coming soon 😘
 
 ### Predictive maintenance
 
-
+Coming soon 😘
 
 # Oil & Gas
 
@@ -738,30 +990,47 @@ Multilingual Datasets for Chatbot Training
 
 ### Workers’ behavior monitoring to detect safety rules abidance 
 
+Coming soon 😘
 
 ## Exploitation
 
 ### Geological assessment
 
+Coming soon 😘
+
 ### Hydraulic fracturing analysis
+
+Coming soon 😘
 
 ### Real Time drilling monitoring
 
+Coming soon 😘
 
 ## Maintenance
 
 ### Pipeline defect detection
 
+Coming soon 😘
+
 ### Automatic recognition of analog instruments
+
+Coming soon 😘
 
 ### Wireline spooling anomalies detection
 
+Coming soon 😘
+
 ### Corrosion detection
+
+Coming soon 😘
 
 ### Field workers assistance with voicebots
 
+Coming soon 😘
+
 ### Predictive analytics/maintenance
 
+Coming soon 😘
 
 # Railway
 
@@ -769,19 +1038,29 @@ Multilingual Datasets for Chatbot Training
 
 ### Defect and obstacle on railway detection
 
+Coming soon 😘
+
 ### Defect on machines detection (e.g train)
+
+Coming soon 😘
 
 ### Signalling detection
 
+Coming soon 😘
+
 ### Passenger flux monitoring
+
+Coming soon 😘
 
 ### Dangerous behavior detection
 
+Coming soon 😘
 
 ## Operations
 
 ### Technical questionnaire processing
 
+Coming soon 😘
 
 # Retail (e-commerce)
 
@@ -789,17 +1068,25 @@ Multilingual Datasets for Chatbot Training
 
 ### Make-up / cream recommendation from customer’s face picture
 
+Coming soon 😘
+
 ### Recommendation system improvement 
 
+Coming soon 😘
 
 ## Marketing
 
 ### Sentiment analysis of reviews / social medias / blogs
 
+Coming soon 😘
+
 ### Hyper targeted recommendation
+
+Coming soon 😘
 
 ### Hyper targeted advertisement
 
+Coming soon 😘
 
 ## Customer Service
 
@@ -811,21 +1098,29 @@ Multilingual Datasets for Chatbot Training
 
 ### Counterfeit product detection
 
+Coming soon 😘
+
 ### Search engine improvement 
+
+Coming soon 😘
 
 ### Virtual dressing rooms
 
-
+Coming soon 😘
 
 ## Production
 
 ### Product categorization from image
 
+Coming soon 😘
+
 ### Product search from voice search
+
+Coming soon 😘
 
 ### Product search from image search
 
-
+Coming soon 😘
 
 # Retail (in-store)
 
@@ -833,18 +1128,29 @@ Multilingual Datasets for Chatbot Training
 
 ### Shelf management - Inventory status
 
+Coming soon 😘
+
 ### Shelf management - Quality monitoring
 
+Coming soon 😘
+
 ### Theft detection
+
+Coming soon 😘
 
 ## Sales
 
 ### Automatic basket analysis
 
+Coming soon 😘
+
 ### In-store tracking of customer’s placement and behaviors/purchase patterns
+
+Coming soon 😘
 
 ### Virtual mirrors
 
+Coming soon 😘
 
 # Security
 
@@ -852,34 +1158,57 @@ Multilingual Datasets for Chatbot Training
 
 ### Access Control with Facial Recognition
 
+Coming soon 😘
+
 ### Restricted area penetration detection
+
+Coming soon 😘
 
 ### Theft detection
 
+Coming soon 😘
+
 ### Fire detection
+
+Coming soon 😘
 
 ### Crowd monitoring
 
+Coming soon 😘
+
 ### Safety behavior compliance monitoring
+
+Coming soon 😘
 
 ### Targeted individuals identification with Facial Recognition
 
+Coming soon 😘
+
 ### Dangerous behaviors monitoring
 
-
+Coming soon 😘
 
 # Tech
 
 ## Augmented product intelligence with Automated document processing
 
+Coming soon 😘
+
 ## Generalist document processing 
+
+Coming soon 😘
 
 ## Technical document processing 
 
+Coming soon 😘
+
 ## Legal document processing 
+
+Coming soon 😘
 
 ## Medical document processing 
 
+Coming soon 😘
 
 # Telco
 
@@ -891,13 +1220,23 @@ Multilingual Datasets for Chatbot Training
 
 #### Compliance
 
+Coming soon 😘
+
 #### Customer processes
+
+Coming soon 😘
 
 #### Email Processing
 
+Coming soon 😘
+
 #### Technical documentation
 
+Coming soon 😘
+
 #### Quality report
+
+Coming soon 😘
 
 ## Customer Service
 
@@ -907,21 +1246,27 @@ Multilingual Datasets for Chatbot Training
 
 ### Voice of Customer
 
+Coming soon 😘
 
 ## Regulatory
 
 ### Consumption Fraud detection
 
+Coming soon 😘
+
 ### Fraud detection by voice analysis
 
-
+Coming soon 😘
 
 ## Maintenance
 
 ### Augmented technician
 
+Coming soon 😘
+
 ### Visual inspection on infrastructure
 
+Coming soon 😘
 
 # Utilities
 
@@ -933,23 +1278,33 @@ Multilingual Datasets for Chatbot Training
 
 ### Voice of Customer
 
+Coming soon 😘
+
 ## Engineering
 
 ### Technical drawing analysis
+
+Coming soon 😘
 
 ## Fraud
 
 ### Consumption Fraud detection
 
+Coming soon 😘
 
 ## Maintenance
 
 ### Augmented technician
 
+Coming soon 😘
+
 ### Vegetation inspection
+
+Coming soon 😘
 
 ### Visual inspection on infrastructure
 
+Coming soon 😘
 
 ## Operations
 
@@ -959,13 +1314,23 @@ Multilingual Datasets for Chatbot Training
 
 #### Compliance
 
+Coming soon 😘
+
 #### Customer processes
+
+Coming soon 😘
 
 #### Technical documentation
 
+Coming soon 😘
+
 #### Quality report
 
+Coming soon 😘
+
 ### Email Processing
+
+Coming soon 😘
 
 ## Safety
 
@@ -977,7 +1342,9 @@ Multilingual Datasets for Chatbot Training
 
 ### Automated sorting of recyclables
 
+Coming soon 😘
+
 ### Intelligent bins
 
-
+Coming soon 😘
 
