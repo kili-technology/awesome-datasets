@@ -64,12 +64,14 @@ class Document:
         h1 = []
         for industry in np.sort(self._df.Industry.unique()):
             h1.append(f"- [{industry}](#{to_shortcut(industry)})")
-        self._md = """
+        self._md = f"""
 <div align="center">
   <h1>Awesome Datasets</h1>
 </div>
 
-We're collecting (an admittedly opinionated) public data sources in high quality. Most of the data sets listed below are free, however, some are not. They are classified by industry and use case.
+We're collecting (an admittedly opinionated) list of data annotated datasets in high quality. Most of the data sets listed below are free, however, some are not. They are classified by industry and use case.
+
+We have shortlisted **{len(self._df)} datasets** so far.
 
 *We're only at the beginning, and you can help by contributing to this GitHub!*
 

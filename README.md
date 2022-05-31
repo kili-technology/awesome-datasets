@@ -3,7 +3,9 @@
   <h1>Awesome Datasets</h1>
 </div>
 
-We're collecting (an admittedly opinionated) public data sources in high quality. Most of the data sets listed below are free, however, some are not. They are classified by industry and use case.
+We're collecting (an admittedly opinionated) list of data annotated datasets in high quality. Most of the data sets listed below are free, however, some are not. They are classified by industry and use case.
+
+We have shortlisted **58 datasets** so far.
 
 *We're only at the beginning, and you can help by contributing to this GitHub!*
 
@@ -365,6 +367,19 @@ Text generation:
 Handwriting and character recognition:
 
 - ![](./images/ok-24.png) [Artificial Characters Dataset](https://archive.ics.uci.edu/ml/datasets/Artificial+Characters) Artificially generated data describing the structure of 10 capital English letters.
+- ![](./images/ok-24.png) [Letter Dataset](https://archive.ics.uci.edu/ml/datasets/letter+recognition) Upper case printed letters.
+- ![](./images/ok-24.png) [CASIA-HWDB](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html) Offline handwritten Chinese character database. 3755 classes in the GB 2312 character set.
+- ![](./images/ok-24.png) [Character Trajectories Dataset](https://archive.ics.uci.edu/ml/datasets/Character+Trajectories) Labeled samples of pen tip trajectories for people writing simple characters.
+- ![](./images/ok-24.png) [Chars74K Dataset](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/) Character recognition in natural images of symbols used in both English and Kannada
+- ![](./images/ok-24.png) [EMNIST dataset](https://www.nist.gov/itl/products-and-services/emnist-dataset) Handwritten characters from 3600 contributors
+- ![](./images/ok-24.png) [UJI Pen Characters Dataset](https://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters) Isolated handwritten characters
+- ![](./images/ok-24.png) [Omniglot dataset](https://github.com/brendenlake/omniglot) 1623 different handwritten characters from 50 different alphabets.
+- ![](./images/ok-24.png) [MNIST database](http://yann.lecun.com/exdb/mnist/) Database of handwritten digits.
+- ![](./images/ok-24.png) [Optical Recognition of Handwritten Digits Dataset](http://archive.ics.uci.edu/ml/datasets/optical+recognition+of+handwritten+digits) Normalized bitmaps of handwritten data.
+- ![](./images/ok-24.png) [Pen-Based Recognition of Handwritten Digits Dataset](http://archive.ics.uci.edu/ml/datasets/pen-based+recognition+of+handwritten+digits) Handwritten digits on electronic pen-tablet.
+- ![](./images/ok-24.png) [Semeion Handwritten Digit Dataset](https://archive.ics.uci.edu/ml/datasets/semeion+handwritten+digit) Handwritten digits from 80 people.
+- ![](./images/ok-24.png) [HASYv2](https://www.kaggle.com/datasets/guru001/hasyv2) Handwritten mathematical symbols
+- ![](./images/ok-24.png) [Noisy Handwritten Bangla Dataset](https://csc.lsu.edu/~saikat/noisy-bangla/) Includes Handwritten Numeral Dataset (10 classes) and Basic Character Dataset (50 classes), each dataset has three types of noise: white gaussian, motion blur, and reduced contrast.
 
 
 <h1 id="utilities">Utilities</h1>
