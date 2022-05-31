@@ -3,19 +3,17 @@ import pandas as pd
 import re
 
 
-
 def to_shortcut(text):
     return re.sub("[^0-9a-zA-Z]+", "-", text.lower())
 
 
 class Document:
 
-    _md = ''
+    _md = ""
 
     def __init__(self):
-        self._df = pd.read_csv('./dataset.csv', sep=';')
+        self._df = pd.read_csv("./dataset.csv", sep=";")
 
-    
     def make(self):
         self._introduction()
         for industry in np.sort(self._df.Industry.unique()):
@@ -26,13 +24,17 @@ class Document:
             self._industry_table_of_content(industry)
             df_industry = self._df.loc[self._df.Industry == industry, :]
             for department in np.sort(df_industry.Department.unique()):
-                department_shortcut = to_shortcut(industry) + "-" + to_shortcut(department)
+                department_shortcut = (
+                    to_shortcut(industry) + "-" + to_shortcut(department)
+                )
                 self._md += f"""
 <h2 id="{department_shortcut}">{department}</h2>
 """
                 df_department = df_industry.loc[self._df.Department == department, :]
                 for use_case in np.sort(df_department.UseCase.unique()):
-                    use_case_shortcut = department_shortcut +  "-" + to_shortcut(use_case)
+                    use_case_shortcut = (
+                        department_shortcut + "-" + to_shortcut(use_case)
+                    )
                     self._md += f"""
 <h3 id="{use_case_shortcut}">{use_case}</h3>
 
@@ -47,11 +49,10 @@ class Document:
 
         return self._md
 
-    
     def _introduction(self):
         h1 = []
         for industry in np.sort(self._df.Industry.unique()):
-            h1.append(f"- [{industry}](#{to_shortcut(industry)})")    
+            h1.append(f"- [{industry}](#{to_shortcut(industry)})")
         self._md = """
 <div align="center">
   <h1>Awesome Datasets</h1>
@@ -79,9 +80,9 @@ We want this resource to grow with contributions from readers and data enthusias
 <!-- omit in toc -->
 # Table of Content
 
-""" \
-    + '\n'.join(h1)
-
+""" + "\n".join(
+            h1
+        )
 
     def _industry_table_of_content(self, industry):
         df_industry = self._df.loc[self._df.Industry == industry, :]
@@ -91,16 +92,19 @@ We want this resource to grow with contributions from readers and data enthusias
 - [{department}](#{department_shortcut})"""
             df_department = df_industry.loc[self._df.Department == department, :]
             for use_case in np.sort(df_department.UseCase.unique()):
-                use_case_shortcut = department_shortcut +  "-" + to_shortcut(use_case)
+                use_case_shortcut = department_shortcut + "-" + to_shortcut(use_case)
                 self._md += f"""
   - [{use_case}](#{use_case_shortcut})"""
 
     def _more_datasets(self, industry, department, use_case, ml_task):
         index = (self._df.MLTask == ml_task) & (
-            (self._df.Industry != industry) \
-                | (self._df.Department != department) \
-                | (self._df.UseCase != use_case))
-        more_df = self._df.loc[index, :].sort_values(by=['Industry', 'Department', 'UseCase'])
+            (self._df.Industry != industry)
+            | (self._df.Department != department)
+            | (self._df.UseCase != use_case)
+        )
+        more_df = self._df.loc[index, :].sort_values(
+            by=["Industry", "Department", "UseCase"]
+        )
         if len(more_df) == 0:
             return
         self._md += f"""
@@ -109,14 +113,20 @@ We want this resource to grow with contributions from readers and data enthusias
 
 """
         for _, row in more_df.iterrows():
-            shortcut = to_shortcut(industry) + "-" + to_shortcut(department) +  "-" + to_shortcut(use_case)
-            self._md += f"- [{row.Industry} > {row.Department} > {row.UseCase}]({shortcut})\n"
+            shortcut = (
+                to_shortcut(industry)
+                + "-"
+                + to_shortcut(department)
+                + "-"
+                + to_shortcut(use_case)
+            )
+            self._md += (
+                f"- [{row.Industry} > {row.Department} > {row.UseCase}]({shortcut})\n"
+            )
         self._md += "</details>\n"
 
 
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     document = Document()
-    with open('./README.md', 'w') as handler:
+    with open("./README.md", "w") as handler:
         handler.write(document.make())

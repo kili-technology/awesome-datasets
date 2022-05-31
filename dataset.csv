@@ -1,19 +1,7 @@
 Industry;Department;UseCase;MLTask;Name;Url;Description
-Agriculture;Production;Grading and sorting of produce;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Production;Weed detection;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Production;Crop health tracking;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Production;Crop maturity monitoring;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Production;Soil health monitoring;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Livestock;Animal counting;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Livestock;Disease/Unusual behaviour detection;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Equipment;Autonomous machines (e.g tractors);Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Treatment;Insect detection;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Treatment;Intelligent fertilizing;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Treatment;Automatic weeding;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Agriculture;Treatment;Intelligent spraying;Image classification;Dataset name;https://www.google.com;Description of dataset.
-Automotive;Sales;Advanced chatbot;Text classification;Dataset name;https://www.google.com;Description of dataset.
-Automotive;Security;In-cockpit driver's behavior monitoring;Text classification;Dataset name;https://www.google.com;Description of dataset.
-Automotive;Maintenance;Vehicle maintenance recommendation;Text classification;Dataset name;https://www.google.com;Description of dataset.
-Automotive;AD/ADAS;On-road video analysis;Text classification;Dataset name;https://www.google.com;Description of dataset.
-Automotive;AD/ADAS;On-road point cloud / multi sensor fusion analysis;Text classification;Dataset name;https://www.google.com;Description of dataset.
-Automotive;Operations;In-car voice assistant;Text classification;Dataset name;https://www.google.com;Description of dataset.
+Retail;Marketing;Sentiment analysis of reviews / social medias / blogs;Text classification;"Amazon reviews	";https://s3.amazonaws.com/amazon-reviews-pds/readme.html;US product reviews from Amazon.com.
+Retail;Marketing;Sentiment analysis of reviews / social medias / blogs;Text classification;OpinRank Review Dataset;https://archive.ics.uci.edu/ml/datasets/opinrank+review+dataset;Reviews of cars and hotels from Edmunds.com and TripAdvisor respectively.
+Gaming, Media & Entertainment;Marketing;Audience / Reviews analysis;Text classification;MovieLens;https://grouplens.org/datasets/movielens/;22,000,000 ratings and 580,000 tags applied to 33,000 movies by 240,000 users.
+Gaming, Media & Entertainment;Marketing;Audience / Reviews analysis;Text classification;Yahoo! Music User Ratings of Musical Artists;https://webscope.sandbox.yahoo.com/catalog.php?datatype=r;Over 10M ratings of artists by Yahoo users.
+Retail;Marketing;Sentiment analysis of reviews / social medias / blogs;Text classification;Car Evaluation Data Set;https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set;Car properties and their overall acceptability.
+Gaming, Media & Entertainment;Marketing;Audience / Reviews analysis;Text classification;YouTube Comedy Slam Preference Dataset;https://www.kaggle.com/datasets/uciml/youtube-comedy-slam;User vote data for pairs of videos shown on YouTube. Users voted on funnier videos.
