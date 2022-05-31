@@ -38,9 +38,9 @@ We want this resource to grow with contributions from readers and data enthusias
 
 Text classification:
 
-- [MovieLens](https://grouplens.org/datasets/movielens/) 22,000,000 ratings and 580,000 tags applied to 33,000 movies by 240,000 users.
-- [Yahoo! Music User Ratings of Musical Artists](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r) Over 10M ratings of artists by Yahoo users.
-- [YouTube Comedy Slam Preference Dataset](https://www.kaggle.com/datasets/uciml/youtube-comedy-slam) User vote data for pairs of videos shown on YouTube. Users voted on funnier videos.
+- ![](./images/ok-24.png) [MovieLens](https://grouplens.org/datasets/movielens/) 22,000,000 ratings and 580,000 tags applied to 33,000 movies by 240,000 users.
+- ![](./images/ok-24.png) [Yahoo! Music User Ratings of Musical Artists](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r) Over 10M ratings of artists by Yahoo users.
+- ![](./images/ok-24.png) [YouTube Comedy Slam Preference Dataset](https://www.kaggle.com/datasets/uciml/youtube-comedy-slam) User vote data for pairs of videos shown on YouTube. Users voted on funnier videos.
 
 <details>
   <summary><i>Click to get more datasets from other industries and use cases</i></summary>
@@ -61,9 +61,9 @@ Text classification:
 
 Text classification:
 
-- [Amazon reviews	](https://s3.amazonaws.com/amazon-reviews-pds/readme.html) US product reviews from Amazon.com.
-- [OpinRank Review Dataset](https://archive.ics.uci.edu/ml/datasets/opinrank+review+dataset) Reviews of cars and hotels from Edmunds.com and TripAdvisor respectively.
-- [Car Evaluation Data Set](https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set) Car properties and their overall acceptability.
+- ![](./images/ok-24.png) [Amazon reviews	](https://s3.amazonaws.com/amazon-reviews-pds/readme.html) US product reviews from Amazon.com.
+- ![](./images/ok-24.png) [OpinRank Review Dataset](https://archive.ics.uci.edu/ml/datasets/opinrank+review+dataset) Reviews of cars and hotels from Edmunds.com and TripAdvisor respectively.
+- ![](./images/ok-24.png) [Car Evaluation Data Set](https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set) Car properties and their overall acceptability.
 
 <details>
   <summary><i>Click to get more datasets from other industries and use cases</i></summary>

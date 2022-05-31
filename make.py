@@ -1,10 +1,16 @@
 import numpy as np
 import pandas as pd
 import re
+import requests
 
 
 def to_shortcut(text):
     return re.sub("[^0-9a-zA-Z]+", "-", text.lower())
+
+
+def url_ok(url):
+    r = requests.head(url)
+    return r.status_code == 200
 
 
 class Document:
@@ -44,7 +50,12 @@ class Document:
                         df_ml_task = df_use_case.loc[self._df.MLTask == ml_task, :]
                         self._md += f"{ml_task}:\n\n"
                         for _, row in df_ml_task.iterrows():
-                            self._md += f"- [{row.Name}]({row.Url}) {row.Description}\n"
+                            icon = (
+                                "./images/ok-24.png"
+                                if url_ok(row.Url)
+                                else "./images/fixme-24.png"
+                            )
+                            self._md += f"- ![]({icon}) [{row.Name}]({row.Url}) {row.Description}\n"
                         self._more_datasets(industry, department, use_case, ml_task)
 
         return self._md
