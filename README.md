@@ -45,6 +45,7 @@ We want this resource to grow with contributions from readers and data enthusias
 
 <h3 id="banking-compliance-fraud-detection">Fraud detection</h3>
 
+
 Classification:
 
 - ![](./images/ok-24.png) [Credit Card Transactions](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions) 284,000 transactions over two days, of which less than 500 are fraudulent.
@@ -52,6 +53,7 @@ Classification:
 <h2 id="banking-customer-service">Customer Service</h2>
 
 <h3 id="banking-customer-service-ai-voicebot">AI Voicebot</h3>
+
 
 Speech to text:
 
@@ -61,6 +63,7 @@ Speech to text:
 <h2 id="banking-operations">Operations</h2>
 
 <h3 id="banking-operations-email-classification">Email classification</h3>
+
 
 Text classification:
 
@@ -82,6 +85,7 @@ Text classification:
 
 <h3 id="banking-operations-invoice-processing">Invoice processing</h3>
 
+
 Image classification:
 
 - ![](./images/ok-24.png) [The RVL-CDIP Dataset](http://www.cs.cmu.edu/~aharley/rvl-cdip/) The dataset consists of 400,000 grayscale images in 16 classes, with 25,000 images per class.
@@ -94,6 +98,7 @@ Image classification:
 <h2 id="education-hr">HR</h2>
 
 <h3 id="education-hr-audience-reviews-analysis">Audience / Reviews analysis</h3>
+
 
 Text classification:
 
@@ -119,6 +124,7 @@ Text classification:
 
 <h3 id="gaming-media-entertainment-marketing-audience-reviews-analysis">Audience / Reviews analysis</h3>
 
+
 Text classification:
 
 - ![](./images/ok-24.png) [MovieLens](https://grouplens.org/datasets/movielens/) 22,000,000 ratings and 580,000 tags applied to 33,000 movies by 240,000 users.
@@ -138,9 +144,11 @@ Text classification:
 
 <h3 id="gaming-media-entertainment-production-content-classification-recommandation">Content Classification/ Recommandation</h3>
 
+
 Named-Entity and Relation extraction:
 
 - ![](./images/ok-24.png) [RE3D (Relationship and Entity Extraction Evaluation Dataset)](https://metatext.io/datasets/relationship-and-entity-extraction-evaluation-dataset-(re3d)) Entity and Relation marked data from various news and government sources. Sponsored by Dstl
+
 Text classification:
 
 - ![](./images/ok-24.png) [NYSK Dataset](https://archive.ics.uci.edu/ml/datasets/NYSK) English news articles about the case relating to allegations of sexual assault against the former IMF director Dominique Strauss-Kahn.	
@@ -170,6 +178,7 @@ Text classification:
 
 <h3 id="manufacturing-quality-safety-defect-detection">Defect detection</h3>
 
+
 Object recognition:
 
 - ![](./images/ok-24.png) [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection) This dataset if about localizing and classifying surface defects on a steel sheet.
@@ -182,6 +191,7 @@ Object recognition:
 <h2 id="oil-gas-safety">Safety</h2>
 
 <h3 id="oil-gas-safety-fire-detection">Fire detection</h3>
+
 
 Image classification, object recognition:
 
@@ -197,6 +207,7 @@ Image classification, object recognition:
 <h2 id="retail-marketing">Marketing</h2>
 
 <h3 id="retail-marketing-sentiment-analysis-of-reviews-social-medias-blogs">Sentiment analysis of reviews / social medias / blogs</h3>
+
 
 Text classification:
 

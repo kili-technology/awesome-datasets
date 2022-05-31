@@ -48,7 +48,7 @@ class Document:
                     df_use_case = df_department.loc[self._df.UseCase == use_case, :]
                     for ml_task in np.sort(df_use_case.MLTask.unique()):
                         df_ml_task = df_use_case.loc[self._df.MLTask == ml_task, :]
-                        self._md += f"{ml_task}:\n\n"
+                        self._md += f"\n{ml_task}:\n\n"
                         for _, row in df_ml_task.iterrows():
                             icon = (
                                 "./images/ok-24.png"
