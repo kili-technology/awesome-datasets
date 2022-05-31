@@ -113,8 +113,10 @@ We want this resource to grow with contributions from readers and data enthusias
             | (self._df.Department != department)
             | (self._df.UseCase != use_case)
         )
-        more_df = self._df.loc[index, :].sort_values(
-            by=["Industry", "Department", "UseCase"]
+        more_df = (
+            self._df.loc[index, ["Industry", "Department", "UseCase"]]
+            .drop_duplicates()
+            .sort_values(by=["Industry", "Department", "UseCase"])
         )
         if len(more_df) == 0:
             return
@@ -125,14 +127,14 @@ We want this resource to grow with contributions from readers and data enthusias
 """
         for _, row in more_df.iterrows():
             shortcut = (
-                to_shortcut(industry)
+                to_shortcut(row.Industry)
                 + "-"
-                + to_shortcut(department)
+                + to_shortcut(row.Department)
                 + "-"
-                + to_shortcut(use_case)
+                + to_shortcut(row.UseCase)
             )
             self._md += (
-                f"- [{row.Industry} > {row.Department} > {row.UseCase}]({shortcut})\n"
+                f"- [{row.Industry} > {row.Department} > {row.UseCase}](#{shortcut})\n"
             )
         self._md += "</details>\n"
 

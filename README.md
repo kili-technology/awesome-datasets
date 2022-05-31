@@ -45,9 +45,7 @@ Text classification:
 <details>
   <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
-- [Retail > Marketing > Sentiment analysis of reviews / social medias / blogs](gaming-media-entertainment-marketing-audience-reviews-analysis)
-- [Retail > Marketing > Sentiment analysis of reviews / social medias / blogs](gaming-media-entertainment-marketing-audience-reviews-analysis)
-- [Retail > Marketing > Sentiment analysis of reviews / social medias / blogs](gaming-media-entertainment-marketing-audience-reviews-analysis)
+- [Retail > Marketing > Sentiment analysis of reviews / social medias / blogs](#retail-marketing-sentiment-analysis-of-reviews-social-medias-blogs)
 </details>
 
 
@@ -68,7 +66,5 @@ Text classification:
 <details>
   <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
-- [Gaming, Media & Entertainment > Marketing > Audience / Reviews analysis](retail-marketing-sentiment-analysis-of-reviews-social-medias-blogs)
-- [Gaming, Media & Entertainment > Marketing > Audience / Reviews analysis](retail-marketing-sentiment-analysis-of-reviews-social-medias-blogs)
-- [Gaming, Media & Entertainment > Marketing > Audience / Reviews analysis](retail-marketing-sentiment-analysis-of-reviews-social-medias-blogs)
+- [Gaming, Media & Entertainment > Marketing > Audience / Reviews analysis](#gaming-media-entertainment-marketing-audience-reviews-analysis)
 </details>
