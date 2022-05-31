@@ -55,7 +55,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Livestock > Animal counting](agriculture-equipment-autonomous-machines-e-g-tractors-)
 - [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-equipment-autonomous-machines-e-g-tractors-)
@@ -79,7 +79,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-livestock-animal-counting)
 - [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-livestock-animal-counting)
@@ -101,7 +101,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-livestock-disease-unusual-behaviour-detection)
 - [Agriculture > Livestock > Animal counting](agriculture-livestock-disease-unusual-behaviour-detection)
@@ -125,7 +125,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-crop-health-tracking)
 - [Agriculture > Livestock > Animal counting](agriculture-production-crop-health-tracking)
@@ -147,7 +147,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-crop-maturity-monitoring)
 - [Agriculture > Livestock > Animal counting](agriculture-production-crop-maturity-monitoring)
@@ -169,7 +169,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-grading-and-sorting-of-produce)
 - [Agriculture > Livestock > Animal counting](agriculture-production-grading-and-sorting-of-produce)
@@ -191,7 +191,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-soil-health-monitoring)
 - [Agriculture > Livestock > Animal counting](agriculture-production-soil-health-monitoring)
@@ -213,7 +213,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-weed-detection)
 - [Agriculture > Livestock > Animal counting](agriculture-production-weed-detection)
@@ -237,7 +237,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-treatment-automatic-weeding)
 - [Agriculture > Livestock > Animal counting](agriculture-treatment-automatic-weeding)
@@ -259,7 +259,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-treatment-insect-detection)
 - [Agriculture > Livestock > Animal counting](agriculture-treatment-insect-detection)
@@ -281,7 +281,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-treatment-intelligent-fertilizing)
 - [Agriculture > Livestock > Animal counting](agriculture-treatment-intelligent-fertilizing)
@@ -303,7 +303,7 @@ Image classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-treatment-intelligent-spraying)
 - [Agriculture > Livestock > Animal counting](agriculture-treatment-intelligent-spraying)
@@ -341,7 +341,7 @@ Text classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Automotive > AD/ADAS > On-road video analysis](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
 - [Automotive > Maintenance > Vehicle maintenance recommendation](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
@@ -357,7 +357,7 @@ Text classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-ad-adas-on-road-video-analysis)
 - [Automotive > Maintenance > Vehicle maintenance recommendation](automotive-ad-adas-on-road-video-analysis)
@@ -375,7 +375,7 @@ Text classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-maintenance-vehicle-maintenance-recommendation)
 - [Automotive > AD/ADAS > On-road video analysis](automotive-maintenance-vehicle-maintenance-recommendation)
@@ -393,7 +393,7 @@ Text classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-operations-in-car-voice-assistant)
 - [Automotive > AD/ADAS > On-road video analysis](automotive-operations-in-car-voice-assistant)
@@ -411,7 +411,7 @@ Text classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-sales-advanced-chatbot)
 - [Automotive > AD/ADAS > On-road video analysis](automotive-sales-advanced-chatbot)
@@ -429,7 +429,7 @@ Text classification:
 - [Dataset name](https://www.google.com) Description of dataset.
 
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 - [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-security-in-cockpit-driver-s-behavior-monitoring)
 - [Automotive > AD/ADAS > On-road video analysis](automotive-security-in-cockpit-driver-s-behavior-monitoring)

@@ -105,7 +105,7 @@ We want this resource to grow with contributions from readers and data enthusias
             return
         self._md += f"""
 <details>
-  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
+  <summary><i>Click to get more datasets from other industries and use cases</i></summary>
 
 """
         for _, row in more_df.iterrows():
