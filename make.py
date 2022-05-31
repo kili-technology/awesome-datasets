@@ -104,12 +104,14 @@ We want this resource to grow with contributions from readers and data enthusias
         if len(more_df) == 0:
             return
         self._md += f"""
-More {ml_task} datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
 """
         for _, row in more_df.iterrows():
             shortcut = to_shortcut(industry) + "-" + to_shortcut(department) +  "-" + to_shortcut(use_case)
-            self._md += f"- [{row.Industry} / {row.Department} / {row.UseCase}]({shortcut})\n"
+            self._md += f"- [{row.Industry} > {row.Department} > {row.UseCase}]({shortcut})\n"
+        self._md += "</details>\n"
 
 
 

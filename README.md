@@ -54,19 +54,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Livestock / Animal counting](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Production / Crop health tracking](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Production / Soil health monitoring](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Production / Weed detection](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Treatment / Automatic weeding](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Treatment / Insect detection](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-equipment-autonomous-machines-e-g-tractors-)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Livestock > Animal counting](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Production > Crop health tracking](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Production > Soil health monitoring](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Production > Weed detection](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Treatment > Automatic weeding](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Treatment > Insect detection](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-equipment-autonomous-machines-e-g-tractors-)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-equipment-autonomous-machines-e-g-tractors-)
+</details>
 
 <h2 id="agriculture-livestock">Livestock</h2>
 
@@ -76,19 +78,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-livestock-animal-counting)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-livestock-animal-counting)
-- [Agriculture / Production / Crop health tracking](agriculture-livestock-animal-counting)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-livestock-animal-counting)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-livestock-animal-counting)
-- [Agriculture / Production / Soil health monitoring](agriculture-livestock-animal-counting)
-- [Agriculture / Production / Weed detection](agriculture-livestock-animal-counting)
-- [Agriculture / Treatment / Automatic weeding](agriculture-livestock-animal-counting)
-- [Agriculture / Treatment / Insect detection](agriculture-livestock-animal-counting)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-livestock-animal-counting)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-livestock-animal-counting)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-livestock-animal-counting)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-livestock-animal-counting)
+- [Agriculture > Production > Crop health tracking](agriculture-livestock-animal-counting)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-livestock-animal-counting)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-livestock-animal-counting)
+- [Agriculture > Production > Soil health monitoring](agriculture-livestock-animal-counting)
+- [Agriculture > Production > Weed detection](agriculture-livestock-animal-counting)
+- [Agriculture > Treatment > Automatic weeding](agriculture-livestock-animal-counting)
+- [Agriculture > Treatment > Insect detection](agriculture-livestock-animal-counting)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-livestock-animal-counting)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-livestock-animal-counting)
+</details>
 
 <h3 id="agriculture-livestock-disease-unusual-behaviour-detection">Disease/Unusual behaviour detection</h3>
 
@@ -96,19 +100,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Livestock / Animal counting](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Production / Crop health tracking](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Production / Soil health monitoring](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Production / Weed detection](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Treatment / Automatic weeding](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Treatment / Insect detection](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-livestock-disease-unusual-behaviour-detection)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Livestock > Animal counting](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Production > Crop health tracking](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Production > Soil health monitoring](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Production > Weed detection](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Treatment > Automatic weeding](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Treatment > Insect detection](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-livestock-disease-unusual-behaviour-detection)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-livestock-disease-unusual-behaviour-detection)
+</details>
 
 <h2 id="agriculture-production">Production</h2>
 
@@ -118,19 +124,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-production-crop-health-tracking)
-- [Agriculture / Livestock / Animal counting](agriculture-production-crop-health-tracking)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-production-crop-health-tracking)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-production-crop-health-tracking)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-production-crop-health-tracking)
-- [Agriculture / Production / Soil health monitoring](agriculture-production-crop-health-tracking)
-- [Agriculture / Production / Weed detection](agriculture-production-crop-health-tracking)
-- [Agriculture / Treatment / Automatic weeding](agriculture-production-crop-health-tracking)
-- [Agriculture / Treatment / Insect detection](agriculture-production-crop-health-tracking)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-production-crop-health-tracking)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-production-crop-health-tracking)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-crop-health-tracking)
+- [Agriculture > Livestock > Animal counting](agriculture-production-crop-health-tracking)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-production-crop-health-tracking)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-production-crop-health-tracking)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-production-crop-health-tracking)
+- [Agriculture > Production > Soil health monitoring](agriculture-production-crop-health-tracking)
+- [Agriculture > Production > Weed detection](agriculture-production-crop-health-tracking)
+- [Agriculture > Treatment > Automatic weeding](agriculture-production-crop-health-tracking)
+- [Agriculture > Treatment > Insect detection](agriculture-production-crop-health-tracking)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-production-crop-health-tracking)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-production-crop-health-tracking)
+</details>
 
 <h3 id="agriculture-production-crop-maturity-monitoring">Crop maturity monitoring</h3>
 
@@ -138,19 +146,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Livestock / Animal counting](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Production / Crop health tracking](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Production / Soil health monitoring](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Production / Weed detection](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Treatment / Automatic weeding](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Treatment / Insect detection](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-production-crop-maturity-monitoring)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Livestock > Animal counting](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Production > Crop health tracking](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Production > Soil health monitoring](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Production > Weed detection](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Treatment > Automatic weeding](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Treatment > Insect detection](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-production-crop-maturity-monitoring)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-production-crop-maturity-monitoring)
+</details>
 
 <h3 id="agriculture-production-grading-and-sorting-of-produce">Grading and sorting of produce</h3>
 
@@ -158,19 +168,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Livestock / Animal counting](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Production / Crop health tracking](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Production / Soil health monitoring](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Production / Weed detection](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Treatment / Automatic weeding](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Treatment / Insect detection](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-production-grading-and-sorting-of-produce)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Livestock > Animal counting](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Production > Crop health tracking](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Production > Soil health monitoring](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Production > Weed detection](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Treatment > Automatic weeding](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Treatment > Insect detection](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-production-grading-and-sorting-of-produce)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-production-grading-and-sorting-of-produce)
+</details>
 
 <h3 id="agriculture-production-soil-health-monitoring">Soil health monitoring</h3>
 
@@ -178,19 +190,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-production-soil-health-monitoring)
-- [Agriculture / Livestock / Animal counting](agriculture-production-soil-health-monitoring)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-production-soil-health-monitoring)
-- [Agriculture / Production / Crop health tracking](agriculture-production-soil-health-monitoring)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-production-soil-health-monitoring)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-production-soil-health-monitoring)
-- [Agriculture / Production / Weed detection](agriculture-production-soil-health-monitoring)
-- [Agriculture / Treatment / Automatic weeding](agriculture-production-soil-health-monitoring)
-- [Agriculture / Treatment / Insect detection](agriculture-production-soil-health-monitoring)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-production-soil-health-monitoring)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-production-soil-health-monitoring)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-soil-health-monitoring)
+- [Agriculture > Livestock > Animal counting](agriculture-production-soil-health-monitoring)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-production-soil-health-monitoring)
+- [Agriculture > Production > Crop health tracking](agriculture-production-soil-health-monitoring)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-production-soil-health-monitoring)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-production-soil-health-monitoring)
+- [Agriculture > Production > Weed detection](agriculture-production-soil-health-monitoring)
+- [Agriculture > Treatment > Automatic weeding](agriculture-production-soil-health-monitoring)
+- [Agriculture > Treatment > Insect detection](agriculture-production-soil-health-monitoring)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-production-soil-health-monitoring)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-production-soil-health-monitoring)
+</details>
 
 <h3 id="agriculture-production-weed-detection">Weed detection</h3>
 
@@ -198,19 +212,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-production-weed-detection)
-- [Agriculture / Livestock / Animal counting](agriculture-production-weed-detection)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-production-weed-detection)
-- [Agriculture / Production / Crop health tracking](agriculture-production-weed-detection)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-production-weed-detection)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-production-weed-detection)
-- [Agriculture / Production / Soil health monitoring](agriculture-production-weed-detection)
-- [Agriculture / Treatment / Automatic weeding](agriculture-production-weed-detection)
-- [Agriculture / Treatment / Insect detection](agriculture-production-weed-detection)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-production-weed-detection)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-production-weed-detection)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-production-weed-detection)
+- [Agriculture > Livestock > Animal counting](agriculture-production-weed-detection)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-production-weed-detection)
+- [Agriculture > Production > Crop health tracking](agriculture-production-weed-detection)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-production-weed-detection)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-production-weed-detection)
+- [Agriculture > Production > Soil health monitoring](agriculture-production-weed-detection)
+- [Agriculture > Treatment > Automatic weeding](agriculture-production-weed-detection)
+- [Agriculture > Treatment > Insect detection](agriculture-production-weed-detection)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-production-weed-detection)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-production-weed-detection)
+</details>
 
 <h2 id="agriculture-treatment">Treatment</h2>
 
@@ -220,19 +236,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-treatment-automatic-weeding)
-- [Agriculture / Livestock / Animal counting](agriculture-treatment-automatic-weeding)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-treatment-automatic-weeding)
-- [Agriculture / Production / Crop health tracking](agriculture-treatment-automatic-weeding)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-treatment-automatic-weeding)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-treatment-automatic-weeding)
-- [Agriculture / Production / Soil health monitoring](agriculture-treatment-automatic-weeding)
-- [Agriculture / Production / Weed detection](agriculture-treatment-automatic-weeding)
-- [Agriculture / Treatment / Insect detection](agriculture-treatment-automatic-weeding)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-treatment-automatic-weeding)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-treatment-automatic-weeding)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-treatment-automatic-weeding)
+- [Agriculture > Livestock > Animal counting](agriculture-treatment-automatic-weeding)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-treatment-automatic-weeding)
+- [Agriculture > Production > Crop health tracking](agriculture-treatment-automatic-weeding)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-treatment-automatic-weeding)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-treatment-automatic-weeding)
+- [Agriculture > Production > Soil health monitoring](agriculture-treatment-automatic-weeding)
+- [Agriculture > Production > Weed detection](agriculture-treatment-automatic-weeding)
+- [Agriculture > Treatment > Insect detection](agriculture-treatment-automatic-weeding)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-treatment-automatic-weeding)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-treatment-automatic-weeding)
+</details>
 
 <h3 id="agriculture-treatment-insect-detection">Insect detection</h3>
 
@@ -240,19 +258,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-treatment-insect-detection)
-- [Agriculture / Livestock / Animal counting](agriculture-treatment-insect-detection)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-treatment-insect-detection)
-- [Agriculture / Production / Crop health tracking](agriculture-treatment-insect-detection)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-treatment-insect-detection)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-treatment-insect-detection)
-- [Agriculture / Production / Soil health monitoring](agriculture-treatment-insect-detection)
-- [Agriculture / Production / Weed detection](agriculture-treatment-insect-detection)
-- [Agriculture / Treatment / Automatic weeding](agriculture-treatment-insect-detection)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-treatment-insect-detection)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-treatment-insect-detection)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-treatment-insect-detection)
+- [Agriculture > Livestock > Animal counting](agriculture-treatment-insect-detection)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-treatment-insect-detection)
+- [Agriculture > Production > Crop health tracking](agriculture-treatment-insect-detection)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-treatment-insect-detection)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-treatment-insect-detection)
+- [Agriculture > Production > Soil health monitoring](agriculture-treatment-insect-detection)
+- [Agriculture > Production > Weed detection](agriculture-treatment-insect-detection)
+- [Agriculture > Treatment > Automatic weeding](agriculture-treatment-insect-detection)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-treatment-insect-detection)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-treatment-insect-detection)
+</details>
 
 <h3 id="agriculture-treatment-intelligent-fertilizing">Intelligent fertilizing</h3>
 
@@ -260,19 +280,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Livestock / Animal counting](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Production / Crop health tracking](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Production / Soil health monitoring](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Production / Weed detection](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Treatment / Automatic weeding](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Treatment / Insect detection](agriculture-treatment-intelligent-fertilizing)
-- [Agriculture / Treatment / Intelligent spraying](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Livestock > Animal counting](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Production > Crop health tracking](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Production > Soil health monitoring](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Production > Weed detection](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Treatment > Automatic weeding](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Treatment > Insect detection](agriculture-treatment-intelligent-fertilizing)
+- [Agriculture > Treatment > Intelligent spraying](agriculture-treatment-intelligent-fertilizing)
+</details>
 
 <h3 id="agriculture-treatment-intelligent-spraying">Intelligent spraying</h3>
 
@@ -280,19 +302,21 @@ Image classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Image classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Agriculture / Equipment / Autonomous machines (e.g tractors)](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Livestock / Animal counting](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Livestock / Disease/Unusual behaviour detection](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Production / Crop health tracking](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Production / Crop maturity monitoring](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Production / Grading and sorting of produce](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Production / Soil health monitoring](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Production / Weed detection](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Treatment / Automatic weeding](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Treatment / Insect detection](agriculture-treatment-intelligent-spraying)
-- [Agriculture / Treatment / Intelligent fertilizing](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Equipment > Autonomous machines (e.g tractors)](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Livestock > Animal counting](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Livestock > Disease/Unusual behaviour detection](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Production > Crop health tracking](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Production > Crop maturity monitoring](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Production > Grading and sorting of produce](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Production > Soil health monitoring](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Production > Weed detection](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Treatment > Automatic weeding](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Treatment > Insect detection](agriculture-treatment-intelligent-spraying)
+- [Agriculture > Treatment > Intelligent fertilizing](agriculture-treatment-intelligent-spraying)
+</details>
 
 
 <h1 id="automotive">Automotive</h1>
@@ -316,13 +340,15 @@ Text classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Text classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Automotive / AD/ADAS / On-road video analysis](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
-- [Automotive / Maintenance / Vehicle maintenance recommendation](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
-- [Automotive / Operations / In-car voice assistant](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
-- [Automotive / Sales / Advanced chatbot](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
-- [Automotive / Security / In-cockpit driver's behavior monitoring](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
+- [Automotive > AD/ADAS > On-road video analysis](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
+- [Automotive > Maintenance > Vehicle maintenance recommendation](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
+- [Automotive > Operations > In-car voice assistant](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
+- [Automotive > Sales > Advanced chatbot](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
+- [Automotive > Security > In-cockpit driver's behavior monitoring](automotive-ad-adas-on-road-point-cloud-multi-sensor-fusion-analysis)
+</details>
 
 <h3 id="automotive-ad-adas-on-road-video-analysis">On-road video analysis</h3>
 
@@ -330,13 +356,15 @@ Text classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Text classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Automotive / AD/ADAS / On-road point cloud / multi sensor fusion analysis](automotive-ad-adas-on-road-video-analysis)
-- [Automotive / Maintenance / Vehicle maintenance recommendation](automotive-ad-adas-on-road-video-analysis)
-- [Automotive / Operations / In-car voice assistant](automotive-ad-adas-on-road-video-analysis)
-- [Automotive / Sales / Advanced chatbot](automotive-ad-adas-on-road-video-analysis)
-- [Automotive / Security / In-cockpit driver's behavior monitoring](automotive-ad-adas-on-road-video-analysis)
+- [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-ad-adas-on-road-video-analysis)
+- [Automotive > Maintenance > Vehicle maintenance recommendation](automotive-ad-adas-on-road-video-analysis)
+- [Automotive > Operations > In-car voice assistant](automotive-ad-adas-on-road-video-analysis)
+- [Automotive > Sales > Advanced chatbot](automotive-ad-adas-on-road-video-analysis)
+- [Automotive > Security > In-cockpit driver's behavior monitoring](automotive-ad-adas-on-road-video-analysis)
+</details>
 
 <h2 id="automotive-maintenance">Maintenance</h2>
 
@@ -346,13 +374,15 @@ Text classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Text classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Automotive / AD/ADAS / On-road point cloud / multi sensor fusion analysis](automotive-maintenance-vehicle-maintenance-recommendation)
-- [Automotive / AD/ADAS / On-road video analysis](automotive-maintenance-vehicle-maintenance-recommendation)
-- [Automotive / Operations / In-car voice assistant](automotive-maintenance-vehicle-maintenance-recommendation)
-- [Automotive / Sales / Advanced chatbot](automotive-maintenance-vehicle-maintenance-recommendation)
-- [Automotive / Security / In-cockpit driver's behavior monitoring](automotive-maintenance-vehicle-maintenance-recommendation)
+- [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-maintenance-vehicle-maintenance-recommendation)
+- [Automotive > AD/ADAS > On-road video analysis](automotive-maintenance-vehicle-maintenance-recommendation)
+- [Automotive > Operations > In-car voice assistant](automotive-maintenance-vehicle-maintenance-recommendation)
+- [Automotive > Sales > Advanced chatbot](automotive-maintenance-vehicle-maintenance-recommendation)
+- [Automotive > Security > In-cockpit driver's behavior monitoring](automotive-maintenance-vehicle-maintenance-recommendation)
+</details>
 
 <h2 id="automotive-operations">Operations</h2>
 
@@ -362,13 +392,15 @@ Text classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Text classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Automotive / AD/ADAS / On-road point cloud / multi sensor fusion analysis](automotive-operations-in-car-voice-assistant)
-- [Automotive / AD/ADAS / On-road video analysis](automotive-operations-in-car-voice-assistant)
-- [Automotive / Maintenance / Vehicle maintenance recommendation](automotive-operations-in-car-voice-assistant)
-- [Automotive / Sales / Advanced chatbot](automotive-operations-in-car-voice-assistant)
-- [Automotive / Security / In-cockpit driver's behavior monitoring](automotive-operations-in-car-voice-assistant)
+- [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-operations-in-car-voice-assistant)
+- [Automotive > AD/ADAS > On-road video analysis](automotive-operations-in-car-voice-assistant)
+- [Automotive > Maintenance > Vehicle maintenance recommendation](automotive-operations-in-car-voice-assistant)
+- [Automotive > Sales > Advanced chatbot](automotive-operations-in-car-voice-assistant)
+- [Automotive > Security > In-cockpit driver's behavior monitoring](automotive-operations-in-car-voice-assistant)
+</details>
 
 <h2 id="automotive-sales">Sales</h2>
 
@@ -378,13 +410,15 @@ Text classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Text classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Automotive / AD/ADAS / On-road point cloud / multi sensor fusion analysis](automotive-sales-advanced-chatbot)
-- [Automotive / AD/ADAS / On-road video analysis](automotive-sales-advanced-chatbot)
-- [Automotive / Maintenance / Vehicle maintenance recommendation](automotive-sales-advanced-chatbot)
-- [Automotive / Operations / In-car voice assistant](automotive-sales-advanced-chatbot)
-- [Automotive / Security / In-cockpit driver's behavior monitoring](automotive-sales-advanced-chatbot)
+- [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-sales-advanced-chatbot)
+- [Automotive > AD/ADAS > On-road video analysis](automotive-sales-advanced-chatbot)
+- [Automotive > Maintenance > Vehicle maintenance recommendation](automotive-sales-advanced-chatbot)
+- [Automotive > Operations > In-car voice assistant](automotive-sales-advanced-chatbot)
+- [Automotive > Security > In-cockpit driver's behavior monitoring](automotive-sales-advanced-chatbot)
+</details>
 
 <h2 id="automotive-security">Security</h2>
 
@@ -394,10 +428,12 @@ Text classification:
 
 - [Dataset name](https://www.google.com) Description of dataset.
 
-More Text classification datasets from other industries or use case:
+<details>
+  <summary style="font-style: italic;">Click to get more datasets from other industries and use cases</summary>
 
-- [Automotive / AD/ADAS / On-road point cloud / multi sensor fusion analysis](automotive-security-in-cockpit-driver-s-behavior-monitoring)
-- [Automotive / AD/ADAS / On-road video analysis](automotive-security-in-cockpit-driver-s-behavior-monitoring)
-- [Automotive / Maintenance / Vehicle maintenance recommendation](automotive-security-in-cockpit-driver-s-behavior-monitoring)
-- [Automotive / Operations / In-car voice assistant](automotive-security-in-cockpit-driver-s-behavior-monitoring)
-- [Automotive / Sales / Advanced chatbot](automotive-security-in-cockpit-driver-s-behavior-monitoring)
+- [Automotive > AD/ADAS > On-road point cloud / multi sensor fusion analysis](automotive-security-in-cockpit-driver-s-behavior-monitoring)
+- [Automotive > AD/ADAS > On-road video analysis](automotive-security-in-cockpit-driver-s-behavior-monitoring)
+- [Automotive > Maintenance > Vehicle maintenance recommendation](automotive-security-in-cockpit-driver-s-behavior-monitoring)
+- [Automotive > Operations > In-car voice assistant](automotive-security-in-cockpit-driver-s-behavior-monitoring)
+- [Automotive > Sales > Advanced chatbot](automotive-security-in-cockpit-driver-s-behavior-monitoring)
+</details>
