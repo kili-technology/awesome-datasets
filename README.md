@@ -136,9 +136,7 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### Japanese
 
-- [HJDataset](https://github.com/dell-research-harvard/HJDataset) contains over 250,000 layout element annotations of seven types. In addition to bounding boxes and masks of the content regions, it also includes the hierarchical structures and reading orders for layout elements for advanced analysis.
-
-  <br/>
+- <p>[HJDataset](https://github.com/dell-research-harvard/HJDataset) contains over 250,000 layout element annotations of seven types. In addition to bounding boxes and masks of the content regions, it also includes the hierarchical structures and reading orders for layout elements for advanced analysis.</p>
   <details>
     <summary><i>Example</i></summary>
     <img src="./images/HJDataset.png" />
