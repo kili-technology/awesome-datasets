@@ -51,6 +51,7 @@ publication, questionnaire, resume, scientific report, specification), with 25,0
     <summary><i>Example</i></summary>
     <img src="https://production-media.paperswithcode.com/datasets/RVL-CDIP-0000000502-f579eaab_GQ7QoTc.jpg" />
   </details>
+- test
 
 ## Key Information Extraction
 
