@@ -46,10 +46,10 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### English
 
-- [RVL-CDIP Dataset](https://www.cs.cmu.edu/~aharley/rvl-cdip/) The RVL-CDIP dataset consists of 400,000 grayscale images in 16 classes (letter, memo, email, file folder, form, handwritten, invoice, advertisement, budget, news article, presentation, scientific publication, questionnaire, resume, scientific report, specification), with 25,000 images per class.
+- [GHEGA](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-57058-3_28/MediaObjects/493083_1_En_28_Fig1_HTML.png) contains two groups of documents: 110 data-sheets of electronic components and 136 patents. Each group is further divided in classes: data-sheets classes share the component type and producer; patents classes share the patent source.
   <details>
     <summary><i>Example</i></summary>
-    <img src="https://production-media.paperswithcode.com/datasets/RVL-CDIP-0000000502-f579eaab_GQ7QoTc.jpg" />
+    <img src="./images/GHEGA.jpeg" />
   </details>
 
 - [RVL-CDIP Dataset](https://www.cs.cmu.edu/~aharley/rvl-cdip/) The RVL-CDIP dataset consists of 400,000 grayscale images in 16 classes (letter, memo, email, file folder, form, handwritten, invoice, advertisement, budget, news article, presentation, scientific publication, questionnaire, resume, scientific report, specification), with 25,000 images per class.
@@ -57,6 +57,8 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Example</i></summary>
     <img src="https://production-media.paperswithcode.com/datasets/RVL-CDIP-0000000502-f579eaab_GQ7QoTc.jpg" />
   </details>
+
+- 
 
 ## Key Information Extraction
 
