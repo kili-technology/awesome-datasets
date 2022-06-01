@@ -82,7 +82,7 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### Multilingual
 
-- [GHEGA](https://machinelearning.inginf.units.it/data-and-tools/ghega-dataset) contains two groups of documents: 110 data-sheets of electronic components and 136 patents. Each group is further divided in classes: data-sheets classes share the component type and producer; patents classes share the patent source.
+- [GHEGA](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-57058-3_28/MediaObjects/493083_1_En_28_Fig1_HTML.png) contains two groups of documents: 110 data-sheets of electronic components and 136 patents. Each group is further divided in classes: data-sheets classes share the component type and producer; patents classes share the patent source.
   <details>
     <summary><i>Example</i></summary>
     <img src="https://lh3.googleusercontent.com/_TGut_Kb1q1HQrwRFTNPr0Kw-6Gssit08jcMMklw2qvbnun3q9j1tXUzSBmqafayEBacAg=w1280" />
