@@ -62,6 +62,12 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="https://guillaumejaume.github.io/FUNSD/img/two_forms.png" />
   </details>
 
+- [CORD](https://github.com/clovaai/cord) The dataset consists of thousands of Indonesian receipts, which contains images and box/text annotations for OCR, and multi-level semantic labels for parsing. Labels are the bouding box position and the text of the key informations.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="https://guillaumejaume.github.io/FUNSD/img/two_forms.png" />
+  </details>
+
 - [FUNSD](https://guillaumejaume.github.io/FUNSD/) A dataset for Text Detection, Optical Character Recognition, Spatial Layout Analysis and Form Understanding. Its consists of 199 fully annotated forms, 31485 words, 9707 semantic entities, 5304 relations.
   <details>
     <summary><i>Example</i></summary>
