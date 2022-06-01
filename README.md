@@ -51,7 +51,6 @@ publication, questionnaire, resume, scientific report, specification), with 25,0
     <summary><i>Example</i></summary>
     <img src="https://production-media.paperswithcode.com/datasets/RVL-CDIP-0000000502-f579eaab_GQ7QoTc.jpg" />
   </details>
-  <br/>
 
 ## Key Information Extraction
 
@@ -62,21 +61,18 @@ publication, questionnaire, resume, scientific report, specification), with 25,0
     <summary><i>Example</i></summary>
     <img src="https://guillaumejaume.github.io/FUNSD/img/two_forms.png" />
   </details>
-  <br/>
 
 - [FUNSD](https://guillaumejaume.github.io/FUNSD/) A dataset for Text Detection, Optical Character Recognition, Spatial Layout Analysis and Form Understanding. Its consists of 199 fully annotated forms, 31485 words, 9707 semantic entities, 5304 relations.
   <details>
     <summary><i>Example</i></summary>
     <img src="https://github.com/clovaai/cord/raw/master/figure/sample.png" />
   </details>
-  <br/>
 
 - [SROIE](https://drive.google.com/open?id=1ShItNWXyiY1tFDM5W02bceHuJjyeeJl2) Consists of a dataset with 1000 whole scanned receipt images and annotations for the competition on scanned receipts OCR and key information extraction (SROIE). Labels are the bouding box position and the text of the key informations.
   <details>
     <summary><i>Example</i></summary>
     <img src="https://production-media.paperswithcode.com/datasets/Screenshot_2021-08-09_at_14.29.44.png" />
   </details>
-  <br/>
 
 
 
