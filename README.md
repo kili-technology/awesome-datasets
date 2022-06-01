@@ -45,13 +45,11 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### English
 
-- [RVL-CDIP Dataset](https://www.cs.cmu.edu/~aharley/rvl-cdip/) The RVL-CDIP dataset consists of 400,000 grayscale images in 16 classes (letter, memo, email, file folder, form, handwritten, invoice, advertisement, budget, news article, presentation, scientific
-publication, questionnaire, resume, scientific report, specification), with 25,000 images per class.
+- [RVL-CDIP Dataset](https://www.cs.cmu.edu/~aharley/rvl-cdip/) The RVL-CDIP dataset consists of 400,000 grayscale images in 16 classes (letter, memo, email, file folder, form, handwritten, invoice, advertisement, budget, news article, presentation, scientific publication, questionnaire, resume, scientific report, specification), with 25,000 images per class.
   <details>
     <summary><i>Example</i></summary>
     <img src="https://production-media.paperswithcode.com/datasets/RVL-CDIP-0000000502-f579eaab_GQ7QoTc.jpg" />
   </details>
-- test
 
 ## Key Information Extraction
 
