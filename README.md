@@ -32,8 +32,9 @@ We want this resource to grow with contributions from readers and data enthusias
     - [English](#english-1)
     - [Multilingual](#multilingual)
   - [Optical Character Recognition](#optical-character-recognition)
-  - [Document Layout Analysis](#document-layout-analysis)
     - [English](#english-2)
+  - [Document Layout Analysis](#document-layout-analysis)
+    - [English](#english-3)
     - [Japanese](#japanese)
   - [Document Question Answering](#document-question-answering)
 
@@ -104,7 +105,37 @@ Here is a curated list of datasets for intelligent document processing.
 
 ## Optical Character Recognition
 
+### English
 
+- [FUNSD](https://guillaumejaume.github.io/FUNSD/) for Text Detection, Optical Character Recognition, Spatial Layout Analysis and Form Understanding. Its consists of 199 fully annotated forms, 31485 words, 9707 semantic entities, 5304 relations.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="https://github.com/clovaai/cord/raw/master/figure/sample.png" />
+  </details>
+
+- [RDCL2019](https://www.primaresearch.org/RDCL2019/) contains scanned pages from contemporary magazines and technical articles.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="./images/RDCL2019.png" />
+  </details>
+
+- [SROIE](https://drive.google.com/open?id=1ShItNWXyiY1tFDM5W02bceHuJjyeeJl2) consists of a dataset with 1000 whole scanned receipt images and annotations for the competition on scanned receipts OCR and key information extraction (SROIE). Labels are the bouding box position and the text of the key informations.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="https://production-media.paperswithcode.com/datasets/Screenshot_2021-08-09_at_14.29.44.png" />
+  </details>
+
+- [Synth90k](https://www.robots.ox.ac.uk/~vgg/data/text/#sec-synth) consists of 9 million images covering 90k English words.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="https://www.robots.ox.ac.uk/~vgg/data/text/synthflow.png" />
+  </details>
+
+- [Total Text Dataset](https://github.com/cs-chan/Total-Text-Dataset) consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="https://github.com/cs-chan/Total-Text-Dataset/raw/master/ttstatistics.png" />
+  </details>
 
 ## Document Layout Analysis
 
