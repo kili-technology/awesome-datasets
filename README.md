@@ -33,6 +33,8 @@ We want this resource to grow with contributions from readers and data enthusias
     - [Multilingual](#multilingual)
   - [Optical Character Recognition](#optical-character-recognition)
   - [Document Layout Analysis](#document-layout-analysis)
+    - [English](#english-2)
+    - [Japanese](#japanese)
   - [Document Question Answering](#document-question-answering)
 
 
@@ -105,6 +107,40 @@ Here is a curated list of datasets for intelligent document processing.
 
 
 ## Document Layout Analysis
+
+### English
+
+- [DocBank](https://doc-analysis.github.io/docbank-page/index.html) includes 500K document pages, with 12 types of semantic units: abstract, author, caption, date, equation, figure, footer, list, paragraph, reference, section, table, title.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="./images/DocBank.png" />
+  </details>
+
+- [Layout Analysis Dataset](http://www.primaresearch.org/datasets/Layout_Analysis) contains realistic documents with a wide variety of layouts, reflecting the various challenges in layout analysis. Particular emphasis is placed on magazines and technical/scientific publications which are likely to be the focus of digitisation efforts.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="http://www.primaresearch.org/www/media/datasets/Layout_Analysis.png" />
+  </details>
+
+- [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) is a large dataset of document images, of which the layout is annotated with both bounding boxes and polygonal segmentations.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="https://d3i71xaburhd42.cloudfront.net/b5799d10df17de3232540e990da69553800d6376/6-Figure5-1.png" />
+  </details>
+
+- [TableBank](https://doc-analysis.github.io/tablebank-page/index.html) is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="./images/TableBank.png" />
+  </details>
+
+### Japanese
+
+- [HJDataset](https://github.com/dell-research-harvard/HJDataset) contains over 250,000 layout element annotations of seven types. In addition to bounding boxes and masks of the content regions, it also includes the hierarchical structures and reading orders for layout elements for advanced analysis.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="https://dell-research-harvard.github.io/HJDataset/assets/teaser.png" />
+  </details>
 
 ## Document Question Answering
 
