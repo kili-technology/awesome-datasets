@@ -125,7 +125,7 @@ Here is a curated list of datasets for intelligent document processing.
 - [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) is a large dataset of document images, of which the layout is annotated with both bounding boxes and polygonal segmentations.
   <details>
     <summary><i>Example</i></summary>
-    <img src="https://d3i71xaburhd42.cloudfront.net/b5799d10df17de3232540e990da69553800d6376/6-Figure5-1.png" />
+    <img src="./images/PubLayNet.png" />
   </details>
 
 - [TableBank](https://doc-analysis.github.io/tablebank-page/index.html) is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables.
@@ -139,7 +139,7 @@ Here is a curated list of datasets for intelligent document processing.
 - [HJDataset](https://github.com/dell-research-harvard/HJDataset) contains over 250,000 layout element annotations of seven types. In addition to bounding boxes and masks of the content regions, it also includes the hierarchical structures and reading orders for layout elements for advanced analysis.
   <details>
     <summary><i>Example</i></summary>
-    <img src="https://dell-research-harvard.github.io/HJDataset/assets/teaser.png" />
+    <img src="./images/HJDataset.png" />
   </details>
 
 ## Document Question Answering
