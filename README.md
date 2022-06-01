@@ -58,8 +58,6 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="https://production-media.paperswithcode.com/datasets/RVL-CDIP-0000000502-f579eaab_GQ7QoTc.jpg" />
   </details>
 
-- 
-
 ## Key Information Extraction
 
 ### English
