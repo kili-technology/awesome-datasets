@@ -52,6 +52,12 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="https://production-media.paperswithcode.com/datasets/RVL-CDIP-0000000502-f579eaab_GQ7QoTc.jpg" />
   </details>
 
+- [RVL-CDIP Dataset](https://www.cs.cmu.edu/~aharley/rvl-cdip/) The RVL-CDIP dataset consists of 400,000 grayscale images in 16 classes (letter, memo, email, file folder, form, handwritten, invoice, advertisement, budget, news article, presentation, scientific publication, questionnaire, resume, scientific report, specification), with 25,000 images per class.
+  <details>
+    <summary><i>Example</i></summary>
+    <img src="https://production-media.paperswithcode.com/datasets/RVL-CDIP-0000000502-f579eaab_GQ7QoTc.jpg" />
+  </details>
+
 ## Key Information Extraction
 
 ### English
@@ -62,11 +68,6 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="https://guillaumejaume.github.io/FUNSD/img/two_forms.png" />
   </details>
 
-- [CORD](https://github.com/clovaai/cord) The dataset consists of thousands of Indonesian receipts, which contains images and box/text annotations for OCR, and multi-level semantic labels for parsing. Labels are the bouding box position and the text of the key informations.
-  <details>
-    <summary><i>Example</i></summary>
-    <img src="https://guillaumejaume.github.io/FUNSD/img/two_forms.png" />
-  </details>
 
 - [FUNSD](https://guillaumejaume.github.io/FUNSD/) A dataset for Text Detection, Optical Character Recognition, Spatial Layout Analysis and Form Understanding. Its consists of 199 fully annotated forms, 31485 words, 9707 semantic entities, 5304 relations.
   <details>
