@@ -249,9 +249,17 @@ State-of-the-art NER systems for English produce near-human performance. For exa
     <img src="./images/CADEC.png" />
   </details>
 
-
 - [i2b2-2006](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/i2b2_2006) is the Deidentification and Smoking Challenge dataset.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/i2b2_2006.png" />
+  </details>
+
 - [i2b2-2014](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/i2b2_2014) is the 2014 De-identification and Heart Disease Risk Factors Challenge.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/i2b2_2014.png" />
+  </details>
 
 #### News
 
