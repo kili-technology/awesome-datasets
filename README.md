@@ -229,12 +229,27 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Finance
 
-- [SEC-filings](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/SEC-filings) is generated using CoNll2003 data and financial documents obtained from U.S. Security and Exchange Commission (SEC) filings.
+- <p><a href="https://github.com/juand-r/entity-recognition-datasets/tree/master/data/SEC-filings">SEC-filings</a> is generated using CoNll2003 data and financial documents obtained from U.S. Security and Exchange Commission (SEC) filings.</p>
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/SEC-filings.png" />
+  </details>
 
 #### Medical
 
-- [AnEM](http://www.nactem.ac.uk/anatomy/data/AnEM-1.0.4.tar.gz) consists of abstracts and full-text biomedical papers.
+- [AnEM](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/AnEM) consists of abstracts and full-text biomedical papers.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/AnEM.png" />
+  </details>
+
 - [CADEC](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/CADEC) is a corpus of adverse drug event annotations.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/CADEC.png" />
+  </details>
+
+
 - [i2b2-2006](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/i2b2_2006) is the Deidentification and Smoking Challenge dataset.
 - [i2b2-2014](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/i2b2_2014) is the 2014 De-identification and Heart Disease Risk Factors Challenge.
 
