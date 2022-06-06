@@ -215,8 +215,17 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Defense
 
-- [re3d](https://github.com/dstl/re3d) focuses on entity and relationship extraction relevant to somebody operating in the role of a defence and security intelligence analyst.
+- [re3d](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/re3d) focuses on entity and relationship extraction relevant to somebody operating in the role of a defence and security intelligence analyst.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/re3d.png" />
+  </details>
+
 - [Malware](http://www.statnlp.org/paper/malwaretextdb-a-database-for-annotated-malware-articles.html) consists of texts about malware. It was developed by researchers at the Singapore University of Technology and Design and DSO National Laboratories.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Malware.png" />
+  </details>
 
 #### Finance
 
