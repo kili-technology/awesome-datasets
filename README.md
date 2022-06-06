@@ -55,7 +55,6 @@ We want this resource to grow with contributions from readers and data enthusias
       - [Medical](#medical-1)
       - [News](#news-1)
       - [Twitter](#twitter-1)
-      - [Various](#various-1)
       - [Wikipedia](#wikipedia-1)
   - [Relation Extraction](#relation-extraction)
 
@@ -328,43 +327,88 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 #### Various
 
 - [BBN](https://catalog.ldc.upenn.edu/LDC2005T33) contains approximately 24,000 pronoun coreferences as well as entity and numeric annotation for approximately 2,300 documents.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/BBN.png" />
+  </details>
+
 - [Groningen Meaning Bank (GMB)](https://gmb.let.rug.nl/data.php) comprises thousands of texts in raw and tokenised format, tags for part of speech, named entities and lexical categories, and discourse representation structures compatible with first-order logic.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Groningen Meaning Bank (GMB).png" />
+  </details>
+
 - [OntoNotes 5](https://catalog.ldc.upenn.edu/LDC2013T19) is a large corpus comprising various genres of text (news, conversational telephone speech, weblogs, usenet newsgroups, broadcast, talk shows) in three languages (English, Chinese, and Arabic) with structural information (syntax and predicate argument structure) and shallow semantics (word sense linked to an ontology and coreference).
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/OntoNotes 5.jpg" />
+  </details>
 
 #### Wikipedia
 
 - [GUM-3.1.0](https://github.com/amir-zeldes/gum) is the Georgetown University Multilayer Corpus.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/GUM-3.1.0.png" />
+  </details>
+
 - [wikigold](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/wikigold) is a manually annotated collection of Wikipedia text.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/wikigold.png" />
+  </details>
+
 - [WikiNEuRal](https://github.com/Babelscape/wikineural) is a high-quality automatically-generated dataset for Multilingual Named Entity Recognition.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/WikiNEuRal.png" />
+  </details>
 
 ### French
 
 #### Medical
 
-- [QUAERO French Medical Corpus](https://quaerofrenchmed.limsi.fr/) has been initially developed as a resource for named entity recognition and normalization.
+- <p><a href="https://quaerofrenchmed.limsi.fr/">QUAERO French Medical Corpus</a> has been initially developed as a resource for named entity recognition and normalization.</p>
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/QUAERO French Medical Corpus.jpeg" />
+  </details>
 
 #### News
 
-- [ESTER](http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/) contains 100 hours of orthographically transcribed news broadcast, including annotations of named entities.
-- [ESTER 2](http://catalogue.elra.info/en-us/repository/browse/ELRA-S0338/) contains a manually transcribed radio broadcast news corpus amounting about 100 hours.
-- [Europeana Newspapers (Dutch, French, German)](https://github.com/EuropeanaNewspapers/ner-corpora) is a Named Entity Recognition corpora for Dutch, French, German from Europeana Newspapers.
-- [Quaero Broadcast News Extended Named Entity Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-S0349/) is fully manually annotated according to the Quaero extended and structured named entity definition, which differentiates entity "types" and "components".
-- [Quaero Old Press Extended Named Entity corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0073/) is fully manually annotated according to the Quaero extended and structured named entity definition, which differentiates entity "types" and "components".
+- <p><a href="https://github.com/EuropeanaNewspapers/ner-corpora">Europeana Newspapers (Dutch, French, German)</a> is a Named Entity Recognition corpora for Dutch, French, German from Europeana Newspapers.</p>
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Europeana Newspapers (Dutch, French, German).png" />
+  </details>
 
 #### Twitter
 
-- [CAp 2017 - (Twitter data)](http://cap2017.imag.fr/competition.html) concerns the problem of Named Entity Recognition (NER) for tweets written in French.
-
-#### Various
-
-- [ETAPE](http://catalogue.elra.info/en-us/repository/browse/ELRA-E0046/) consists of ca. 30 hours of French radio and TV data, selected to include mostly non planned speech and a reasonable proportion of multiple speaker data. All data were carefully transcribed, including named entity annotation.
+- <p><a href="http://cap2017.imag.fr/competition.html">CAp 2017 - (Twitter data)</a> concerns the problem of Named Entity Recognition (NER) for tweets written in French.</p>
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/CAp 2017 - (Twitter data).png" />
+  </details>
 
 #### Wikipedia
 
 - [DBpedia abstract corpus](http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/) contains a conversion of Wikipedia abstracts in seven languages (dutch, english, french, german, italian, japanese and spanish) into the NLP Interchange Format (NIF).
-- [DAWT dataset](https://github.com/klout/opendata/tree/master/wiki_annotation) is the Densely Annotated Wikipedia Texts across multiple languages.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/DBpedia abstract corpus.png" />
+  </details>
+
 - [WikiNER](https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500) is a multilingual named entity recognition dataset from Wikipedia.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/WikiNER.png" />
+  </details>
+
 - [WikiNEuRal](https://github.com/Babelscape/wikineural) is a high-quality automatically-generated dataset for Multilingual Named Entity Recognition.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/WikiNEuRal - fr.png" />
+  </details>
 
 ## Relation Extraction
 
