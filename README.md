@@ -264,26 +264,66 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 #### News
 
 - [CONLL 2003](https://deepai.org/dataset/conll-2003-english) is an annotated dataset for Named Entity Recognition. The tokens are labeled under one of the 9 possible tags.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/CONLL 2003.png" />
+  </details>
+
 - [MUC-6](https://catalog.ldc.upenn.edu/LDC2003T13) contains the 318 annotated Wall Street Journal articles, the scoring software and the corresponding documentation used in the MUC6 evaluation.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/MUC-6.png" />
+  </details>
+
 - [NIST-IEER](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ieer.zip)
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/NIST-IEER.png" />
+  </details>
 
 #### Queries
 
 - [MITMovie](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/MITMovieCorpus) is a semantically tagged training and test corpus in BIO format.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/MITMovie.png" />
+  </details>
+
 - [MITRestaurant](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/MITRestaurantCorpus) is a semantically tagged training and test corpus in BIO format.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/MITRestaurant.png" />
+  </details>
 
 #### Social media	
 
-- [WNUT17](http://noisy-text.github.io/2017/emerging-rare-entities.html) is the dataset for the WNUT 17 Emerging Entities task. It contains text from Twitter, Stack Overflow responses, YouTube comments, and Reddit comments.
+- <p><a href="http://noisy-text.github.io/2017/emerging-rare-entities.html">WNUT17</a> is the dataset for the WNUT 17 Emerging Entities task. It contains text from Twitter, Stack Overflow responses, YouTube comments, and Reddit comments.</p>
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/WNUT17.png" />
+  </details>
 
 #### Technology
 
-- [Assembly](https://github.com/carlosmccosta/Assembly-Named-Entity-Recognition-Dataset/tree/master/dataset) is a dataset for Named Entity Recognition (NER) from assembly operations text manuals.
+- <p><a href="https://github.com/carlosmccosta/Assembly-Named-Entity-Recognition-Dataset/tree/master/dataset">Assembly</a> is a dataset for Named Entity Recognition (NER) from assembly operations text manuals.</p>
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Assembly.png" />
+  </details>
 
 #### Twitter
 
 - [BTC](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC) is the Broad Twitter corpus, a dataset of tweets collected over stratified times, places and social uses.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/BTC.png" />
+  </details>
+
 - [Ritter](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/Ritter) is the same as the training portion of WNUT16 (though with sentences in a different order).
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Ritter.png" />
+  </details>
 
 #### Various
 
