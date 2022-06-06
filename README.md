@@ -38,11 +38,26 @@ We want this resource to grow with contributions from readers and data enthusias
     - [Japanese](#japanese)
   - [Document Question Answering](#document-question-answering)
     - [English](#english-4)
-- [NLP](#nlp)
+- [Natural Language Processing](#natural-language-processing)
   - [Named-Entity Recognition](#named-entity-recognition)
     - [English](#english-5)
+      - [Defense](#defense)
+      - [Finance](#finance)
+      - [Medical](#medical)
       - [News](#news)
+      - [Queries](#queries)
+      - [Social media](#social-media)
+      - [Technology](#technology)
+      - [Twitter](#twitter)
       - [Various](#various)
+      - [Wikipedia](#wikipedia)
+    - [French](#french)
+      - [Medical](#medical-1)
+      - [News](#news-1)
+      - [Twitter](#twitter-1)
+      - [Various](#various-1)
+      - [Wikipedia](#wikipedia-1)
+  - [Relation Extraction](#relation-extraction)
 
 # Document processing
 
@@ -188,11 +203,31 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="https://icdar2021.org/wp-content/uploads/docvqa_img.png" />
   </details>
 
-# NLP
+# Natural Language Processing
 
 ## Named-Entity Recognition
 
+Named-entity recognition (NER) (also known as (named) entity identification, entity chunking, and entity extraction) is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
+
+State-of-the-art NER systems for English produce near-human performance. For example, the best system entering MUC-7 scored 93.39% of F-measure while human annotators scored 97.60% and 96.95%.
+
 ### English
+
+#### Defense
+
+- [re3d](https://github.com/dstl/re3d) focuses on entity and relationship extraction relevant to somebody operating in the role of a defence and security intelligence analyst.
+- [Malware](http://www.statnlp.org/paper/malwaretextdb-a-database-for-annotated-malware-articles.html) consists of texts about malware. It was developed by researchers at the Singapore University of Technology and Design and DSO National Laboratories.
+
+#### Finance
+
+- [SEC-filings](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/SEC-filings) is generated using CoNll2003 data and financial documents obtained from U.S. Security and Exchange Commission (SEC) filings.
+
+#### Medical
+
+- [AnEM](http://www.nactem.ac.uk/anatomy/data/AnEM-1.0.4.tar.gz) consists of abstracts and full-text biomedical papers.
+- [CADEC](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/CADEC) is a corpus of adverse drug event annotations.
+- [i2b2-2006](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/i2b2_2006) is the Deidentification and Smoking Challenge dataset.
+- [i2b2-2014](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/i2b2_2014) is the 2014 De-identification and Heart Disease Risk Factors Challenge.
 
 #### News
 
@@ -200,7 +235,65 @@ Here is a curated list of datasets for intelligent document processing.
 - [MUC-6](https://catalog.ldc.upenn.edu/LDC2003T13) contains the 318 annotated Wall Street Journal articles, the scoring software and the corresponding documentation used in the MUC6 evaluation.
 - [NIST-IEER](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ieer.zip)
 
+#### Queries
+
+- [MITMovie](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/MITMovieCorpus) is a semantically tagged training and test corpus in BIO format.
+- [MITRestaurant](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/MITRestaurantCorpus) is a semantically tagged training and test corpus in BIO format.
+
+#### Social media	
+
+- [WNUT17](http://noisy-text.github.io/2017/emerging-rare-entities.html) is the dataset for the WNUT 17 Emerging Entities task. It contains text from Twitter, Stack Overflow responses, YouTube comments, and Reddit comments.
+
+#### Technology
+
+- [Assembly](https://github.com/carlosmccosta/Assembly-Named-Entity-Recognition-Dataset/tree/master/dataset) is a dataset for Named Entity Recognition (NER) from assembly operations text manuals.
+
+#### Twitter
+
+- [BTC](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC) is the Broad Twitter corpus, a dataset of tweets collected over stratified times, places and social uses.
+- [Ritter](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/Ritter) is the same as the training portion of WNUT16 (though with sentences in a different order).
+
 #### Various
 
 - [BBN](https://catalog.ldc.upenn.edu/LDC2005T33) contains approximately 24,000 pronoun coreferences as well as entity and numeric annotation for approximately 2,300 documents.
+- [Groningen Meaning Bank (GMB)](https://gmb.let.rug.nl/data.php) comprises thousands of texts in raw and tokenised format, tags for part of speech, named entities and lexical categories, and discourse representation structures compatible with first-order logic.
 - [OntoNotes 5](https://catalog.ldc.upenn.edu/LDC2013T19) is a large corpus comprising various genres of text (news, conversational telephone speech, weblogs, usenet newsgroups, broadcast, talk shows) in three languages (English, Chinese, and Arabic) with structural information (syntax and predicate argument structure) and shallow semantics (word sense linked to an ontology and coreference).
+
+#### Wikipedia
+
+- [GUM-3.1.0](https://github.com/amir-zeldes/gum) is the Georgetown University Multilayer Corpus.
+- [wikigold](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/wikigold) is a manually annotated collection of Wikipedia text.
+- [WikiNEuRal](https://github.com/Babelscape/wikineural) is a high-quality automatically-generated dataset for Multilingual Named Entity Recognition.
+
+### French
+
+#### Medical
+
+- [QUAERO French Medical Corpus](https://quaerofrenchmed.limsi.fr/) has been initially developed as a resource for named entity recognition and normalization.
+
+#### News
+
+- [ESTER](http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/) contains 100 hours of orthographically transcribed news broadcast, including annotations of named entities.
+- [ESTER 2](http://catalogue.elra.info/en-us/repository/browse/ELRA-S0338/) contains a manually transcribed radio broadcast news corpus amounting about 100 hours.
+- [Europeana Newspapers (Dutch, French, German)](https://github.com/EuropeanaNewspapers/ner-corpora) is a Named Entity Recognition corpora for Dutch, French, German from Europeana Newspapers.
+- [Quaero Broadcast News Extended Named Entity Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-S0349/) is fully manually annotated according to the Quaero extended and structured named entity definition, which differentiates entity "types" and "components".
+- [Quaero Old Press Extended Named Entity corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0073/) is fully manually annotated according to the Quaero extended and structured named entity definition, which differentiates entity "types" and "components".
+
+#### Twitter
+
+- [CAp 2017 - (Twitter data)](http://cap2017.imag.fr/competition.html) concerns the problem of Named Entity Recognition (NER) for tweets written in French.
+
+#### Various
+
+- [ETAPE](http://catalogue.elra.info/en-us/repository/browse/ELRA-E0046/) consists of ca. 30 hours of French radio and TV data, selected to include mostly non planned speech and a reasonable proportion of multiple speaker data. All data were carefully transcribed, including named entity annotation.
+
+#### Wikipedia
+
+- [DBpedia abstract corpus](http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/) contains a conversion of Wikipedia abstracts in seven languages (dutch, english, french, german, italian, japanese and spanish) into the NLP Interchange Format (NIF).
+- [DAWT dataset](https://github.com/klout/opendata/tree/master/wiki_annotation) is the Densely Annotated Wikipedia Texts across multiple languages.
+- [WikiNER](https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500) is a multilingual named entity recognition dataset from Wikipedia.
+- [WikiNEuRal](https://github.com/Babelscape/wikineural) is a high-quality automatically-generated dataset for Multilingual Named Entity Recognition.
+
+## Relation Extraction
+
+Coming soon! 😘
