@@ -68,13 +68,13 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### English
 
-- [GHEGA](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-57058-3_28/MediaObjects/493083_1_En_28_Fig1_HTML.png) contains two groups of documents: 110 data-sheets of electronic components and 136 patents. Each group is further divided in classes: data-sheets classes share the component type and producer; patents classes share the patent source.
+- [GHEGA](https://bit.ly/3x6z33q) contains two groups of documents: 110 data-sheets of electronic components and 136 patents. Each group is further divided in classes: data-sheets classes share the component type and producer; patents classes share the patent source.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/GHEGA.jpeg" />
   </details>
 
-- [RVL-CDIP Dataset](https://www.cs.cmu.edu/~aharley/rvl-cdip/) The RVL-CDIP dataset consists of 400,000 grayscale images in 16 classes (letter, memo, email, file folder, form, handwritten, invoice, advertisement, budget, news article, presentation, scientific publication, questionnaire, resume, scientific report, specification), with 25,000 images per class.
+- [RVL-CDIP Dataset](https://bit.ly/3x8W4CK) The RVL-CDIP dataset consists of 400,000 grayscale images in 16 classes (letter, memo, email, file folder, form, handwritten, invoice, advertisement, budget, news article, presentation, scientific publication, questionnaire, resume, scientific report, specification), with 25,000 images per class.
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://production-media.paperswithcode.com/datasets/RVL-CDIP-0000000502-f579eaab_GQ7QoTc.jpg" />
@@ -84,26 +84,26 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### English
 
-- [CORD](https://github.com/clovaai/cord) The dataset consists of thousands of Indonesian receipts, which contains images and box/text annotations for OCR, and multi-level semantic labels for parsing. Labels are the bouding box position and the text of the key informations.
+- [CORD](https://bit.ly/3NmtdSc) The dataset consists of thousands of Indonesian receipts, which contains images and box/text annotations for OCR, and multi-level semantic labels for parsing. Labels are the bouding box position and the text of the key informations.
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://guillaumejaume.github.io/FUNSD/img/two_forms.png" />
   </details>
 
 
-- [FUNSD](https://guillaumejaume.github.io/FUNSD/) A dataset for Text Detection, Optical Character Recognition, Spatial Layout Analysis and Form Understanding. Its consists of 199 fully annotated forms, 31485 words, 9707 semantic entities, 5304 relations.
+- [FUNSD](https://bit.ly/3Q3owhV) A dataset for Text Detection, Optical Character Recognition, Spatial Layout Analysis and Form Understanding. Its consists of 199 fully annotated forms, 31485 words, 9707 semantic entities, 5304 relations.
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://github.com/clovaai/cord/raw/master/figure/sample.png" />
   </details>
 
-- [NIST](https://www.nist.gov/srd/nist-special-database-2) The NIST Structured Forms Database consists of 5,590 pages of binary, black-and-white images of synthesized documents: 900 simulated tax submissions, 5,590 images of completed structured form faces, 5,590 text files containing entry field answers.
+- [NIST](https://bit.ly/3Q7aBaS) The NIST Structured Forms Database consists of 5,590 pages of binary, black-and-white images of synthesized documents: 900 simulated tax submissions, 5,590 images of completed structured form faces, 5,590 text files containing entry field answers.
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://www.nist.gov/sites/default/files/styles/2800_x_2800_limit/public/images/2019/04/27/sd2.jpg" />
   </details>
 
-- [SROIE](https://drive.google.com/open?id=1ShItNWXyiY1tFDM5W02bceHuJjyeeJl2) Consists of a dataset with 1000 whole scanned receipt images and annotations for the competition on scanned receipts OCR and key information extraction (SROIE). Labels are the bouding box position and the text of the key informations.
+- [SROIE](https://bit.ly/3MnIWzl) Consists of a dataset with 1000 whole scanned receipt images and annotations for the competition on scanned receipts OCR and key information extraction (SROIE). Labels are the bouding box position and the text of the key informations.
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://production-media.paperswithcode.com/datasets/Screenshot_2021-08-09_at_14.29.44.png" />
@@ -111,46 +111,44 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### Multilingual
 
-- [GHEGA](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-57058-3_28/MediaObjects/493083_1_En_28_Fig1_HTML.png) contains two groups of documents: 110 data-sheets of electronic components and 136 patents. Each group is further divided in classes: data-sheets classes share the component type and producer; patents classes share the patent source.
+- [GHEGA](https://bit.ly/3x6z33q) contains two groups of documents: 110 data-sheets of electronic components and 136 patents. Each group is further divided in classes: data-sheets classes share the component type and producer; patents classes share the patent source.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/GHEGA.jpeg" />
   </details>
 
-- [XFUND](https://github.com/doc-analysis/XFUND) is a multilingual form understanding benchmark dataset that includes human-labeled forms with key-value pairs in 7 languages (Chinese, Japanese, Spanish, French, Italian, German, Portuguese).
-
-
+- [XFUND](https://bit.ly/3zly4yW) is a multilingual form understanding benchmark dataset that includes human-labeled forms with key-value pairs in 7 languages (Chinese, Japanese, Spanish, French, Italian, German, Portuguese).
 
 
 ## Optical Character Recognition
 
 ### English
 
-- [FUNSD](https://guillaumejaume.github.io/FUNSD/) for Text Detection, Optical Character Recognition, Spatial Layout Analysis and Form Understanding. Its consists of 199 fully annotated forms, 31485 words, 9707 semantic entities, 5304 relations.
+- [FUNSD](https://bit.ly/3Q3owhV) for Text Detection, Optical Character Recognition, Spatial Layout Analysis and Form Understanding. Its consists of 199 fully annotated forms, 31485 words, 9707 semantic entities, 5304 relations.
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://github.com/clovaai/cord/raw/master/figure/sample.png" />
   </details>
 
-- [RDCL2019](https://www.primaresearch.org/RDCL2019/) contains scanned pages from contemporary magazines and technical articles.
+- [RDCL2019](https://bit.ly/3xcEEoz) contains scanned pages from contemporary magazines and technical articles.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/RDCL2019.png" />
   </details>
 
-- [SROIE](https://drive.google.com/open?id=1ShItNWXyiY1tFDM5W02bceHuJjyeeJl2) consists of a dataset with 1000 whole scanned receipt images and annotations for the competition on scanned receipts OCR and key information extraction (SROIE). Labels are the bouding box position and the text of the key informations.
+- [SROIE](https://bit.ly/3MnIWzl) consists of a dataset with 1000 whole scanned receipt images and annotations for the competition on scanned receipts OCR and key information extraction (SROIE). Labels are the bouding box position and the text of the key informations.
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://production-media.paperswithcode.com/datasets/Screenshot_2021-08-09_at_14.29.44.png" />
   </details>
 
-- [Synth90k](https://www.robots.ox.ac.uk/~vgg/data/text/#sec-synth) consists of 9 million images covering 90k English words.
+- [Synth90k](https://bit.ly/3NoVLdX) consists of 9 million images covering 90k English words.
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://www.robots.ox.ac.uk/~vgg/data/text/synthflow.png" />
   </details>
 
-- [Total Text Dataset](https://github.com/cs-chan/Total-Text-Dataset) consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.
+- [Total Text Dataset](https://bit.ly/3QfKrmn) consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://github.com/cs-chan/Total-Text-Dataset/raw/master/ttstatistics.png" />
@@ -160,25 +158,25 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### English
 
-- [DocBank](https://doc-analysis.github.io/docbank-page/index.html) includes 500K document pages, with 12 types of semantic units: abstract, author, caption, date, equation, figure, footer, list, paragraph, reference, section, table, title.
+- [DocBank](https://bit.ly/3xoheOF) includes 500K document pages, with 12 types of semantic units: abstract, author, caption, date, equation, figure, footer, list, paragraph, reference, section, table, title.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/DocBank.png" />
   </details>
 
-- [Layout Analysis Dataset](http://www.primaresearch.org/datasets/Layout_Analysis) contains realistic documents with a wide variety of layouts, reflecting the various challenges in layout analysis. Particular emphasis is placed on magazines and technical/scientific publications which are likely to be the focus of digitisation efforts.
+- [Layout Analysis Dataset](https://bit.ly/3avHxZZ) contains realistic documents with a wide variety of layouts, reflecting the various challenges in layout analysis. Particular emphasis is placed on magazines and technical/scientific publications which are likely to be the focus of digitisation efforts.
   <details>
     <summary><i>Preview</i></summary>
     <img src="http://www.primaresearch.org/www/media/datasets/Layout_Analysis.png" />
   </details>
 
-- [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) is a large dataset of document images, of which the layout is annotated with both bounding boxes and polygonal segmentations.
+- [PubLayNet](https://bit.ly/3NScp5u) is a large dataset of document images, of which the layout is annotated with both bounding boxes and polygonal segmentations.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/PubLayNet.png" />
   </details>
 
-- [TableBank](https://doc-analysis.github.io/tablebank-page/index.html) is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables.
+- [TableBank](https://bit.ly/3NnRnMl) is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/TableBank.png" />
@@ -186,7 +184,7 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### Japanese
 
-- <p><a href="https://github.com/dell-research-harvard/HJDataset">HJDataset</a> contains over 250,000 layout element annotations of seven types. In addition to bounding boxes and masks of the content regions, it also includes the hierarchical structures and reading orders for layout elements for advanced analysis.</p>
+- <p><a href="https://bit.ly/3xdqdkt">HJDataset</a> contains over 250,000 layout element annotations of seven types. In addition to bounding boxes and masks of the content regions, it also includes the hierarchical structures and reading orders for layout elements for advanced analysis.</p>
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/HJDataset.png" />
@@ -196,10 +194,10 @@ Here is a curated list of datasets for intelligent document processing.
 
 ### English
 
-- <p><a href="https://www.docvqa.org/">DocVQA</a> contains 50 K questions and 12K Images in the dataset. Images are collected from UCSF Industry Documents Library. Questions and answers are manually annotated.</p>
+- <p><a href="https://bit.ly/395Qbyi">DocVQA</a> contains 50 K questions and 12K Images in the dataset. Images are collected from UCSF Industry Documents Library. Questions and answers are manually annotated.</p>
   <details>
     <summary><i>Preview</i></summary>
-    <img src="https://icdar2021.org/wp-content/uploads/docvqa_img.png" />
+    <img src="https://bit.ly/3thmxNm" />
   </details>
 
 # Natural Language Processing
@@ -214,13 +212,13 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Defense
 
-- [re3d](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/re3d) focuses on entity and relationship extraction relevant to somebody operating in the role of a defence and security intelligence analyst.
+- [re3d](https://bit.ly/3xcZLHq) focuses on entity and relationship extraction relevant to somebody operating in the role of a defence and security intelligence analyst.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/re3d.png" />
   </details>
 
-- [Malware](http://www.statnlp.org/paper/malwaretextdb-a-database-for-annotated-malware-articles.html) consists of texts about malware. It was developed by researchers at the Singapore University of Technology and Design and DSO National Laboratories.
+- [Malware](https://bit.ly/3tdIwEM) consists of texts about malware. It was developed by researchers at the Singapore University of Technology and Design and DSO National Laboratories.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/Malware.png" />
@@ -228,7 +226,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Finance
 
-- <p><a href="https://github.com/juand-r/entity-recognition-datasets/tree/master/data/SEC-filings">SEC-filings</a> is generated using CoNll2003 data and financial documents obtained from U.S. Security and Exchange Commission (SEC) filings.</p>
+- <p><a href="https://bit.ly/3x1ZTJS">SEC-filings</a> is generated using CoNll2003 data and financial documents obtained from U.S. Security and Exchange Commission (SEC) filings.</p>
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/SEC-filings.png" />
@@ -236,25 +234,25 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Medical
 
-- [AnEM](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/AnEM) consists of abstracts and full-text biomedical papers.
+- [AnEM](https://bit.ly/38RDLd0) consists of abstracts and full-text biomedical papers.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/AnEM.png" />
   </details>
 
-- [CADEC](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/CADEC) is a corpus of adverse drug event annotations.
+- [CADEC](https://bit.ly/3xvywtj) is a corpus of adverse drug event annotations.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/CADEC.png" />
   </details>
 
-- [i2b2-2006](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/i2b2_2006) is the Deidentification and Smoking Challenge dataset.
+- [i2b2-2006](https://bit.ly/3MhJxSR) is the Deidentification and Smoking Challenge dataset.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/i2b2_2006.png" />
   </details>
 
-- [i2b2-2014](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/i2b2_2014) is the 2014 De-identification and Heart Disease Risk Factors Challenge.
+- [i2b2-2014](https://bit.ly/3mhcX95) is the 2014 De-identification and Heart Disease Risk Factors Challenge.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/i2b2_2014.png" />
@@ -262,19 +260,19 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### News
 
-- [CONLL 2003](https://deepai.org/dataset/conll-2003-english) is an annotated dataset for Named Entity Recognition. The tokens are labeled under one of the 9 possible tags.
+- [CONLL 2003](https://bit.ly/3NXfCR8) is an annotated dataset for Named Entity Recognition. The tokens are labeled under one of the 9 possible tags.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/CONLL 2003.png" />
   </details>
 
-- [MUC-6](https://catalog.ldc.upenn.edu/LDC2003T13) contains the 318 annotated Wall Street Journal articles, the scoring software and the corresponding documentation used in the MUC6 evaluation.
+- [MUC-6](https://bit.ly/3GS2QkC) contains the 318 annotated Wall Street Journal articles, the scoring software and the corresponding documentation used in the MUC6 evaluation.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/MUC-6.png" />
   </details>
 
-- [NIST-IEER](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ieer.zip)
+- [NIST-IEER](https://bit.ly/3NXfzoq)
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/NIST-IEER.png" />
@@ -282,13 +280,13 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Queries
 
-- [MITMovie](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/MITMovieCorpus) is a semantically tagged training and test corpus in BIO format.
+- [MITMovie](https://bit.ly/3NrwoIg) is a semantically tagged training and test corpus in BIO format.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/MITMovie.png" />
   </details>
 
-- [MITRestaurant](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/MITRestaurantCorpus) is a semantically tagged training and test corpus in BIO format.
+- [MITRestaurant](https://bit.ly/3x4qAxw) is a semantically tagged training and test corpus in BIO format.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/MITRestaurant.png" />
@@ -296,7 +294,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Social media	
 
-- <p><a href="http://noisy-text.github.io/2017/emerging-rare-entities.html">WNUT17</a> is the dataset for the WNUT 17 Emerging Entities task. It contains text from Twitter, Stack Overflow responses, YouTube comments, and Reddit comments.</p>
+- <p><a href="https://bit.ly/3x8Apuu">WNUT17</a> is the dataset for the WNUT 17 Emerging Entities task. It contains text from Twitter, Stack Overflow responses, YouTube comments, and Reddit comments.</p>
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/WNUT17.png" />
@@ -304,7 +302,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Technology
 
-- <p><a href="https://github.com/carlosmccosta/Assembly-Named-Entity-Recognition-Dataset/tree/master/dataset">Assembly</a> is a dataset for Named Entity Recognition (NER) from assembly operations text manuals.</p>
+- <p><a href="https://bit.ly/3xlUK0t">Assembly</a> is a dataset for Named Entity Recognition (NER) from assembly operations text manuals.</p>
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/Assembly.png" />
@@ -312,13 +310,13 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Twitter
 
-- [BTC](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC) is the Broad Twitter corpus, a dataset of tweets collected over stratified times, places and social uses.
+- [BTC](https://bit.ly/3aomybD) is the Broad Twitter corpus, a dataset of tweets collected over stratified times, places and social uses.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/BTC.png" />
   </details>
 
-- [Ritter](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/Ritter) is the same as the training portion of WNUT16 (though with sentences in a different order).
+- [Ritter](https://bit.ly/3xkMrlC) is the same as the training portion of WNUT16 (though with sentences in a different order).
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/Ritter.png" />
@@ -326,19 +324,19 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Various
 
-- [BBN](https://catalog.ldc.upenn.edu/LDC2005T33) contains approximately 24,000 pronoun coreferences as well as entity and numeric annotation for approximately 2,300 documents.
+- [BBN](https://bit.ly/3ml7dvk) contains approximately 24,000 pronoun coreferences as well as entity and numeric annotation for approximately 2,300 documents.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/BBN.png" />
   </details>
 
-- [Groningen Meaning Bank (GMB)](https://gmb.let.rug.nl/data.php) comprises thousands of texts in raw and tokenised format, tags for part of speech, named entities and lexical categories, and discourse representation structures compatible with first-order logic.
+- [Groningen Meaning Bank (GMB)](https://bit.ly/3Q5Dfck) comprises thousands of texts in raw and tokenised format, tags for part of speech, named entities and lexical categories, and discourse representation structures compatible with first-order logic.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/Groningen Meaning Bank (GMB).png" />
   </details>
 
-- [OntoNotes 5](https://catalog.ldc.upenn.edu/LDC2013T19) is a large corpus comprising various genres of text (news, conversational telephone speech, weblogs, usenet newsgroups, broadcast, talk shows) in three languages (English, Chinese, and Arabic) with structural information (syntax and predicate argument structure) and shallow semantics (word sense linked to an ontology and coreference).
+- [OntoNotes 5](https://bit.ly/3Q7bgsS) is a large corpus comprising various genres of text (news, conversational telephone speech, weblogs, usenet newsgroups, broadcast, talk shows) in three languages (English, Chinese, and Arabic) with structural information (syntax and predicate argument structure) and shallow semantics (word sense linked to an ontology and coreference).
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/OntoNotes 5.jpg" />
@@ -346,19 +344,19 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Wikipedia
 
-- [GUM-3.1.0](https://github.com/amir-zeldes/gum) is the Georgetown University Multilayer Corpus.
+- [GUM-3.1.0](https://bit.ly/3xmegu0) is the Georgetown University Multilayer Corpus.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/GUM-3.1.0.png" />
   </details>
 
-- [wikigold](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/wikigold) is a manually annotated collection of Wikipedia text.
+- [wikigold](https://bit.ly/3aulGSF) is a manually annotated collection of Wikipedia text.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/wikigold.png" />
   </details>
 
-- [WikiNEuRal](https://github.com/Babelscape/wikineural) is a high-quality automatically-generated dataset for Multilingual Named Entity Recognition.
+- [WikiNEuRal](https://bit.ly/3xafLdh) is a high-quality automatically-generated dataset for Multilingual Named Entity Recognition.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/WikiNEuRal.png" />
@@ -368,7 +366,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Medical
 
-- <p><a href="https://quaerofrenchmed.limsi.fr/">QUAERO French Medical Corpus</a> has been initially developed as a resource for named entity recognition and normalization.</p>
+- <p><a href="https://bit.ly/3mgGzDG">QUAERO French Medical Corpus</a> has been initially developed as a resource for named entity recognition and normalization.</p>
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/QUAERO French Medical Corpus.jpeg" />
@@ -376,7 +374,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### News
 
-- <p><a href="https://github.com/EuropeanaNewspapers/ner-corpora">Europeana Newspapers (Dutch, French, German)</a> is a Named Entity Recognition corpora for Dutch, French, German from Europeana Newspapers.</p>
+- <p><a href="https://bit.ly/39fa5GS">Europeana Newspapers (Dutch, French, German)</a> is a Named Entity Recognition corpora for Dutch, French, German from Europeana Newspapers.</p>
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/Europeana Newspapers (Dutch, French, German).png" />
@@ -384,7 +382,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Twitter
 
-- <p><a href="http://cap2017.imag.fr/competition.html">CAp 2017 - (Twitter data)</a> concerns the problem of Named Entity Recognition (NER) for tweets written in French.</p>
+- <p><a href="https://bit.ly/3zebtV0">CAp 2017 - (Twitter data)</a> concerns the problem of Named Entity Recognition (NER) for tweets written in French.</p>
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/CAp 2017 - (Twitter data).png" />
@@ -392,19 +390,19 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Wikipedia
 
-- [DBpedia abstract corpus](http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/) contains a conversion of Wikipedia abstracts in seven languages (dutch, english, french, german, italian, japanese and spanish) into the NLP Interchange Format (NIF).
+- [DBpedia abstract corpus](https://bit.ly/3Q2OXo0) contains a conversion of Wikipedia abstracts in seven languages (dutch, english, french, german, italian, japanese and spanish) into the NLP Interchange Format (NIF).
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/DBpedia abstract corpus.png" />
   </details>
 
-- [WikiNER](https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500) is a multilingual named entity recognition dataset from Wikipedia.
+- [WikiNER](https://bit.ly/3PZq8t4) is a multilingual named entity recognition dataset from Wikipedia.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/WikiNER.png" />
   </details>
 
-- [WikiNEuRal](https://github.com/Babelscape/wikineural) is a high-quality automatically-generated dataset for Multilingual Named Entity Recognition.
+- [WikiNEuRal](https://bit.ly/3xafLdh) is a high-quality automatically-generated dataset for Multilingual Named Entity Recognition.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/WikiNEuRal - fr.png" />
