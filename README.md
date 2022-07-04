@@ -195,6 +195,8 @@ Here is a curated list of datasets for intelligent document processing.
   </details>
 
 ## Document Question Answering
+### English
+
 - [Break](https://allenai.github.io/Break/)  is a question understanding dataset, aimed at training models to reason over complex questions.
   <details>
     <summary><i>Preview</i></summary>
@@ -205,9 +207,6 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/AmbigQA.png" />
   </details>
-
-### English
-
 - <p><a href="https://bit.ly/395Qbyi">DocVQA</a> contains 50 K questions and 12K Images in the dataset. Images are collected from UCSF Industry Documents Library. Questions and answers are manually annotated.</p>
   <details>
     <summary><i>Preview</i></summary>
