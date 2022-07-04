@@ -220,7 +220,7 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/airbus detection.jpg" />
   </details>
-- [iSAID](https://captain-whu.github.io/iSAID/dataset.html) iSAID contain 655 451 object instances from 15 categories across 2 806 high resolution images. iSAID uses pixel-level annotations. The object categories in iSAID include plane, ship, storage tank, baseball diamond, tennis court, basketball court, ground track field, harbor, bridge, large vehicle, small vehicle, helicopter, roundabout, soccer ball field and swimming pool. The images of ISAID are mainly collected from google earth
+- [iSAID](https://captain-whu.github.io/iSAID/dataset.html) contain 655 451 object instances from 15 categories across 2 806 high resolution images. iSAID uses pixel-level annotations. The object categories in iSAID include plane, ship, storage tank, baseball diamond, tennis court, basketball court, ground track field, harbor, bridge, large vehicle, small vehicle, helicopter, roundabout, soccer ball field and swimming pool. The images of ISAID are mainly collected from google earth
 
   <details>
     <summary><i>Preview</i></summary>
