@@ -226,6 +226,12 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/iSAID.png" />
   </details>
+#### Manufacturing
+
+- [Kolector surface](https://www.vicos.si/resources/kolektorsdd/) is a dataset to detect steel defect.
+   <details>
+  <summary><i>Preview</i></summary>
+  <img src="./images/defect detection 2.png" />
 
 
 # Natural Language Processing
@@ -313,12 +319,6 @@ State-of-the-art NER systems for English produce near-human performance. For exa
     <img src="./images/NIST-IEER.png" />
   </details>
   
-#### Manufacturing
-
-- [Kolector surface](https://www.vicos.si/resources/kolektorsdd/) is a dataset to detect steel defect.
-   <details>
-  <summary><i>Preview</i></summary>
-  <img src="./images/defect detection 2.png" />
 
 #### Queries
 
