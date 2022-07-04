@@ -45,6 +45,7 @@ We want this resource to grow with contributions from readers and data enthusias
       - [Finance](#finance)
       - [Medical](#medical)
       - [News](#news)
+      - [Manufacturing](#manufacturing)
       - [Queries](#queries)
       - [Social media](#social-media)
       - [Technology](#technology)
@@ -283,6 +284,13 @@ State-of-the-art NER systems for English produce near-human performance. For exa
     <summary><i>Preview</i></summary>
     <img src="./images/NIST-IEER.png" />
   </details>
+  
+#### Manufacturing
+
+- [Kolector surface](https://www.vicos.si/resources/kolektorsdd/) is a dataset to detect steel defect.
+   <details>
+  <summary><i>Preview</i></summary>
+  <img src="./images/defect detection 2.png" />
 
 #### Queries
 
