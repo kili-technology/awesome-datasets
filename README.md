@@ -227,6 +227,11 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/iSAID.png" />
   </details>
 #### Manufacturing
+- [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad/) is a dataset for benchmarking anomaly detection methods with a focus on industrial inspection. It contains over 5000 high-resolution images divided into fifteen different object and texture categories. Each category comprises a set of defect-free training images and a test set of images with various kinds of defects as well as images without defects.
+   <details>
+  <summary><i>Preview</i></summary>
+  <img src="./images/MV.png" />
+  
 - [Oil Storage Tanks](https://www.kaggle.com/datasets/towardsentropy/oil-storage-tanks) contains nearly 200 satellite images taken from Google Earth of tank-containing industrial areas around the world. Images are annotated with bounding box information for floating head tanks in the image. Fixed head tanks are not annotated.
    <details>
   <summary><i>Preview</i></summary>
