@@ -344,6 +344,12 @@ State-of-the-art NER systems for English produce near-human performance. For exa
     <img src="./images/break.png" />
   </details>
 
+- [AmbigQA](https://nlp.cs.washington.edu/ambigqa//)is inherent to open-domain question answering; especially when exploring new topics, it can be difficult to ask questions that have a single, unambiguous answer. AmbigQA is a new open-domain question answering task which involves predicting a set of question-answer pairs, where every plausible answer is paired with a disambiguated rewrite of the original question.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/AmbigQA.png" />
+  </details>
+  
 - [BBN](https://bit.ly/3ml7dvk) contains approximately 24,000 pronoun coreferences as well as entity and numeric annotation for approximately 2,300 documents.
   <details>
     <summary><i>Preview</i></summary>
