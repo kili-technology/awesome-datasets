@@ -227,6 +227,11 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/iSAID.png" />
   </details>
 #### Manufacturing
+- [Oil Storage Tanks](https://www.kaggle.com/datasets/towardsentropy/oil-storage-tanks) contains nearly 200 satellite images taken from Google Earth of tank-containing industrial areas around the world. Images are annotated with bounding box information for floating head tanks in the image. Fixed head tanks are not annotated.
+   <details>
+  <summary><i>Preview</i></summary>
+  <img src="./images/OIL.png" />
+
 
 - [Kolector surface](https://www.vicos.si/resources/kolektorsdd/) is a dataset to detect steel defect.
    <details>
