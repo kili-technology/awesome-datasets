@@ -218,7 +218,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
     <img src="./images/re3d.png" />
   </details>
   
-- [Airbus Aircraft Detection](https://www.kaggle.com/datasets/airbusgeo/airbus-aircrafts-sample-dataset/download) can be used to detect automatically the number, size and type of aircrafts present on an airport. In turn, this can provide information about the activity of any airport.
+- [Airbus Aircraft Detection](https://www.kaggle.com/datasets/airbusgeo/airbus-aircrafts-sample-dataset/download) can be used to detect the number, size and type of aircrafts present on an airport. In turn, this can provide information about the activity of any airport.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/airbus detection.jpg" />
