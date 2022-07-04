@@ -302,12 +302,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
     <summary><i>Preview</i></summary>
     <img src="./images/i2b2_2014.png" />
   </details>
-#### Manufacturing
 
-- [Kolector surface](https://www.vicos.si/resources/kolektorsdd/) is a dataset to detect steel defect.
-   <details>
-  <summary><i>Preview</i></summary>
-  <img src="./images/defect detection 2.png" />
 
 #### News
 
