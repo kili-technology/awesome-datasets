@@ -337,6 +337,12 @@ State-of-the-art NER systems for English produce near-human performance. For exa
   </details>
 
 #### Various
+  
+- [Break](https://allenai.github.io/Break/) is a set of data for understanding issues, aimed at training models to reason about complex issues.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/break.png" />
+  </details>
 
 - [BBN](https://bit.ly/3ml7dvk) contains approximately 24,000 pronoun coreferences as well as entity and numeric annotation for approximately 2,300 documents.
   <details>
