@@ -38,6 +38,9 @@ We want this resource to grow with contributions from readers and data enthusias
     - [Japanese](#japanese)
   - [Document Question Answering](#document-question-answering)
     - [English](#english-4)
+- [Image Processing](#image-processing)
+    -[Image Segmentation](#image-segmentation)
+      -[Defense](#defense) 
 - [Natural Language Processing](#natural-language-processing)
   - [Named-Entity Recognition](#named-entity-recognition)
     - [English](#english-5)
@@ -200,6 +203,20 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="https://bit.ly/3thmxNm" />
   </details>
+# Image Processing
+## Instant Segmentation
+### Defense 
+- [iSAID](https://captain-whu.github.io/iSAID/dataset.html) identifies 15 object categories from satellite images
+
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/iSAID.png" />
+  </details>
+- [Airbus Aircraft Detection](https://www.kaggle.com/datasets/airbusgeo/airbus-aircrafts-sample-dataset/download) can be used to detect the number, size and type of aircrafts present on an airport. In turn, this can provide information about the activity of any airport.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/airbus detection.jpg" />
+  </details>
 
 # Natural Language Processing
 
@@ -219,18 +236,6 @@ State-of-the-art NER systems for English produce near-human performance. For exa
     <img src="./images/re3d.png" />
   </details>
   
-- [iSAID](https://captain-whu.github.io/iSAID/dataset.html) identifies 15 object categories from satellite images
-
-  <details>
-    <summary><i>Preview</i></summary>
-    <img src="./images/iSAID.png" />
-  </details>
-  
-- [Airbus Aircraft Detection](https://www.kaggle.com/datasets/airbusgeo/airbus-aircrafts-sample-dataset/download) can be used to detect the number, size and type of aircrafts present on an airport. In turn, this can provide information about the activity of any airport.
-  <details>
-    <summary><i>Preview</i></summary>
-    <img src="./images/airbus detection.jpg" />
-  </details>
 
 - [Malware](https://bit.ly/3tdIwEM) consists of texts about malware. It was developed by researchers at the Singapore University of Technology and Design and DSO National Laboratories.
   <details>
