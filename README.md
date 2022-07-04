@@ -39,7 +39,7 @@ We want this resource to grow with contributions from readers and data enthusias
   - [Document Question Answering](#document-question-answering)
     - [English](#english-4)
 - [Image Processing](#image-processing)
-  - [Image Segmentation](#image-segmentation)
+  - [Instant Segmentation](#instant-segmentation)
       - [Defense](#defense) 
 - [Natural Language Processing](#natural-language-processing)
   - [Named-Entity Recognition](#named-entity-recognition)
