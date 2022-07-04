@@ -215,17 +215,18 @@ Here is a curated list of datasets for intelligent document processing.
 # Image Processing
 ## Instant Segmentation
 ### Defense 
-- [iSAID](https://captain-whu.github.io/iSAID/dataset.html) identifies 15 object categories from satellite images
-
-  <details>
-    <summary><i>Preview</i></summary>
-    <img src="./images/iSAID.png" />
-  </details>
 - [Airbus Aircraft Detection](https://www.kaggle.com/datasets/airbusgeo/airbus-aircrafts-sample-dataset/download) can be used to detect the number, size and type of aircrafts present on an airport. In turn, this can provide information about the activity of any airport.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/airbus detection.jpg" />
   </details>
+- [iSAID](https://captain-whu.github.io/iSAID/dataset.html) iSAID contain 655 451 object instances from 15 categories across 2 806 high resolution images. iSAID uses pixel-level annotations. The object categories in iSAID include plane, ship, storage tank, baseball diamond, tennis court, basketball court, ground track field, harbor, bridge, large vehicle, small vehicle, helicopter, roundabout, soccer ball field and swimming pool. The images of ISAID are mainly collected from google earth
+
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/iSAID.png" />
+  </details>
+
 
 # Natural Language Processing
 
