@@ -338,7 +338,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 
 #### Various
   
-- [Break](https://allenai.github.io/Break/) is a set of data for understanding issues, aimed at training models to reason about complex issues.
+- [Break](https://allenai.github.io/Break/)  is a question understanding dataset, aimed at training models to reason over complex questions.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/break.png" />
