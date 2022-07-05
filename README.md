@@ -268,7 +268,7 @@ Here is a curated list of datasets for intelligent document processing.
 - [Coco Car Damage Detection Dataset](https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset ) contains car images with one or more damaged parts. The dataset has 150 images.
    <details>
   <summary><i>Preview</i></summary>
-  <img src="./images/Coco Car Damage Detection Dataset.jpeg" />
+  <img src="./images/Coco Car Damage Detection Dataset.jpg" />
 - [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad/) is a dataset for benchmarking anomaly detection methods with a focus on industrial inspection. It contains over 5000 high-resolution images divided into fifteen different object and texture categories. Each category comprises a set of defect-free training images and a test set of images with various kinds of defects as well as images without defects.
    <details>
   <summary><i>Preview</i></summary>
