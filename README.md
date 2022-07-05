@@ -216,16 +216,21 @@ Here is a curated list of datasets for intelligent document processing.
 
 ## Document Question Answering
 ### English
-
+- [AmbigQA](https://nlp.cs.washington.edu/ambigqa//) is inherent to open-domain question answering; especially when exploring new topics, it can be difficult to ask questions that have a single, unambiguous answer. AmbigQA is a new open-domain question answering task which involves predicting a set of question-answer pairs, where every plausible answer is paired with a disambiguated rewrite of the original question.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/AmbigQA.png" />
+  </details>
 - [Break](https://allenai.github.io/Break/)  is a question understanding dataset, aimed at training models to reason over complex questions.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/break.png" />
   </details>
-- [AmbigQA](https://nlp.cs.washington.edu/ambigqa//) is inherent to open-domain question answering; especially when exploring new topics, it can be difficult to ask questions that have a single, unambiguous answer. AmbigQA is a new open-domain question answering task which involves predicting a set of question-answer pairs, where every plausible answer is paired with a disambiguated rewrite of the original question.
+
+- [DuReader 2.0](https://allenai.github.io/Break/)  is a large-scale, open-domain Chinese data set for reading comprehension (RK) and question answering (QA). It contains over 300K questions, 1.4M obvious documents and corresponding human-generated answers.
   <details>
     <summary><i>Preview</i></summary>
-    <img src="./images/AmbigQA.png" />
+    <img src="./images/DuReader 2.0.jpg" />
   </details>
 - <p><a href="https://bit.ly/395Qbyi">DocVQA</a> contains 50 K questions and 12K Images in the dataset. Images are collected from UCSF Industry Documents Library. Questions and answers are manually annotated.</p>
   <details>
