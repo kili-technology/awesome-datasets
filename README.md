@@ -94,6 +94,13 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="https://guillaumejaume.github.io/FUNSD/img/two_forms.png" />
   </details>
 
+- [DUE: End-to-End Document Understanding Benchmark](https://duebenchmark.com/leaderboard) includes Visual Question Answering, Key Information Extraction, and Machine Reading Comprehension tasks over various document domains and layouts featuring tables, graphs, lists, and infographics. In addition, the current study reports systematic baselines and analyzes challenges in currently available datasets using recent advances in layout-aware language modeling.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="image/DUE.png" />
+  </details>
+
+
 
 - [FUNSD](https://bit.ly/3Q3owhV) A dataset for Text Detection, Optical Character Recognition, Spatial Layout Analysis and Form Understanding. Its consists of 199 fully annotated forms, 31485 words, 9707 semantic entities, 5304 relations.
   <details>
