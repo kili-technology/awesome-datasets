@@ -97,7 +97,7 @@ Here is a curated list of datasets for intelligent document processing.
 - [DUE: End-to-End Document Understanding Benchmark](https://duebenchmark.com/leaderboard) includes Visual Question Answering, Key Information Extraction, and Machine Reading Comprehension tasks over various document domains and layouts featuring tables, graphs, lists, and infographics. In addition, the current study reports systematic baselines and analyzes challenges in currently available datasets using recent advances in layout-aware language modeling.
   <details>
     <summary><i>Preview</i></summary>
-    <img src="image/DUE.png" />
+    <img src="images/DUE.png" />
   </details>
 
 
