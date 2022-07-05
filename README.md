@@ -280,7 +280,12 @@ State-of-the-art NER systems for English produce near-human performance. For exa
     <summary><i>Preview</i></summary>
     <img src="./images/CCCS-CIC-AndMal-2020.png" />
   </details>
-
+- [Malware](https://bit.ly/3tdIwEM) consists of texts about malware. It was developed by researchers at the Singapore University of Technology and Design and DSO National Laboratories.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Malware.png" />
+  </details>
+     
 - [re3d](https://bit.ly/3xcZLHq) focuses on entity and relationship extraction relevant to somebody operating in the role of a defence and security intelligence analyst.
   <details>
     <summary><i>Preview</i></summary>
@@ -288,12 +293,6 @@ State-of-the-art NER systems for English produce near-human performance. For exa
   </details>
   
 
-- [Malware](https://bit.ly/3tdIwEM) consists of texts about malware. It was developed by researchers at the Singapore University of Technology and Design and DSO National Laboratories.
-  <details>
-    <summary><i>Preview</i></summary>
-    <img src="./images/Malware.png" />
-  </details>
-     
 
 #### Finance
 
