@@ -242,7 +242,7 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/DuReader 2.0.jpg" />
   </details>
-  - [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames )  A set of open dialogue data where the conversation is aimed at accomplishing a task or making a decision - in particular, finding flights and a hotel. The data set contains complex conversations and decisions covering over 250 hotels, flights and destinations.
+- [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames )  A set of open dialogue data where the conversation is aimed at accomplishing a task or making a decision - in particular, finding flights and a hotel. The data set contains complex conversations and decisions covering over 250 hotels, flights and destinations.
  
 # Image Processing
 ## Instant Segmentation
