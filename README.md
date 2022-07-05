@@ -227,15 +227,16 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/break.png" />
   </details>
 
-- [DuReader 2.0](https://allenai.github.io/Break/)  is a large-scale, open-domain Chinese data set for reading comprehension (RK) and question answering (QA). It contains over 300K questions, 1.4M obvious documents and corresponding human-generated answers.
-  <details>
-    <summary><i>Preview</i></summary>
-    <img src="./images/DuReader 2.0.jpg" />
-  </details>
+
 - <p><a href="https://bit.ly/395Qbyi">DocVQA</a> contains 50 K questions and 12K Images in the dataset. Images are collected from UCSF Industry Documents Library. Questions and answers are manually annotated.</p>
   <details>
     <summary><i>Preview</i></summary>
     <img src="https://bit.ly/3thmxNm" />
+  </details>
+- [DuReader 2.0](https://allenai.github.io/Break/)  is a large-scale, open-domain Chinese data set for reading comprehension (RK) and question answering (QA). It contains over 300K questions, 1.4M obvious documents and corresponding human-generated answers.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/DuReader 2.0.jpg" />
   </details>
 # Image Processing
 ## Instant Segmentation
