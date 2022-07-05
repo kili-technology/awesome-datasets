@@ -67,6 +67,11 @@ We want this resource to grow with contributions from readers and data enthusias
 # Audio
 ## Speech Recognition
 ### English
+- [M-AILABS Speech Dataset](https://www.caito.de/2019/01/03/the-m-ailabs-speech-dataset/) Include 1000 hours of audio plus transcriptions. It includes multiple languages arranged by male voices, female voices, and a mix of the two. Most of the data is based on LibriVox and Project Gutenberg.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/M-AILABS Speech Dataset.png" />
+  </details>
 
 
 
