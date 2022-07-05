@@ -72,6 +72,7 @@ We want this resource to grow with contributions from readers and data enthusias
     <summary><i>Preview</i></summary>
     <img src="./images/M-AILABS Speech Dataset.png" />
   </details>
+- [CREMA-D](https://dagshub.com/mert.bozkirr/CREMA-D) is a dataset of 7,442 original clips from 91 actors. These clips were from 48 male and 43 female actors between the ages of 20 and 74 coming from various ethnicities.
 
 
 
