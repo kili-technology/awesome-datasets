@@ -227,7 +227,7 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/break.png" />
   </details>
 
-- [Customer Support on Twitter](https://allenai.github.io/Break/)  This Kaggle dataset includes more than 3 million tweets and responses from leading brands on Twitter.
+- [Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter )  This Kaggle dataset includes more than 3 million tweets and responses from leading brands on Twitter.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/Customer Support on Twitter.png" />
