@@ -24,6 +24,9 @@ We want this resource to grow with contributions from readers and data enthusias
 
 <!-- omit in toc -->
 # Table of Content
+-[Audio](#audio)
+  -[Speech Recognition](#Speech-Recognition)
+    -[English](#english)
 
 - [Document processing](#document-processing)
   - [Document Classification](#document-classification)
