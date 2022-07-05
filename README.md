@@ -288,6 +288,12 @@ State-of-the-art NER systems for English produce near-human performance. For exa
     <summary><i>Preview</i></summary>
     <img src="./images/Malware.png" />
   </details>
+     
+- [CCCS-CIC-AndMal-2020](https://www.unb.ca/cic/datasets/andmal2020.html) proposes a new comprehensive and huge android malware dataset, named CCCS-CIC-AndMal-2020. The dataset includes 200K benign and 200K malware samples totalling to 400K android apps with 14 prominent malware categories and 191 eminent malware families.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/CCCS-CIC-AndMal-2020.png" />
+  </details>
 
 #### Finance
 
