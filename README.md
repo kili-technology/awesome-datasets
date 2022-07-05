@@ -227,7 +227,11 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/break.png" />
   </details>
 
-
+- [Customer Support on Twitter](https://allenai.github.io/Break/)  This Kaggle dataset includes more than 3 million tweets and responses from leading brands on Twitter.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Customer Support on Twitter.png" />
+  </details>
 - <p><a href="https://bit.ly/395Qbyi">DocVQA</a> contains 50 K questions and 12K Images in the dataset. Images are collected from UCSF Industry Documents Library. Questions and answers are manually annotated.</p>
   <details>
     <summary><i>Preview</i></summary>
