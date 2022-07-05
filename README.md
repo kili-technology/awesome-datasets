@@ -99,7 +99,7 @@ Here is a curated list of datasets for intelligent document processing.
 - [Top Streamers on Twitch](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata) contains data of Top 1000 Streamers from past year. This data consists of different things like number of viewers, number of active viewers, followers gained and many other relevant columns regarding a particular streamer. It has 11 different columns with all the necessary information that is needed. 
   <details>
     <summary><i>Preview</i></summary>
-    <img src="./images/https://www.kaggle.com/datasets/aayushmishra1512/twitchdata.jpg" />
+    <img src="./images/https://www.kaggle.com/datasets/aayushmishra1512/Top Streamers on Twitch.png" />
   </details>
 
 ## Key Information Extraction
