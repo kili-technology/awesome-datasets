@@ -350,7 +350,7 @@ State-of-the-art NER systems for English produce near-human performance. For exa
 - [Enron](https://bit.ly/3x4qAxw) Over half a million anonymized emails from over 100 users. It’s one of the few publically available collections of “real” emails available for study and training sets. 
   <details>
     <summary><i>Preview</i></summary>
-    <img src="./images/Enron.png" />
+    <img src="./images/Enron2.png" />
   </details>
 - <p><a href="https://bit.ly/3x8Apuu">WNUT17</a> is the dataset for the WNUT 17 Emerging Entities task. It contains text from Twitter, Stack Overflow responses, YouTube comments, and Reddit comments.</p>
   <details>
