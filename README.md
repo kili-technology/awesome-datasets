@@ -41,6 +41,7 @@ We want this resource to grow with contributions from readers and data enthusias
     - [Japanese](#japanese)
   - [Document Question Answering](#document-question-answering)
     - [English](#english-5)
+    - [Multilingual](#multilingual-1)
 - [Image Processing](#image-processing)
   - [Instant Segmentation](#instant-segmentation)
       - [Defense](#defense) 
@@ -253,7 +254,9 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/DuReader 2.0.jpg" />
   </details>
 - [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames )  A set of open dialogue data where the conversation is aimed at accomplishing a task or making a decision - in particular, finding flights and a hotel. The data set contains complex conversations and decisions covering over 250 hotels, flights and destinations.
- 
+### Multilingual  
+- [EXCITEMENTS datasets](https://github.com/hltfbk/EOP-1.2.1/wiki/Data-Sets#data-sets-that-have-to-be-downloaded-separately)  These datasets, available in English and Italian, contain negative comments from customers giving reasons for their dissatisfaction with a given company.
+  
 # Image Processing
 ## Instant Segmentation
 ### Defense 
