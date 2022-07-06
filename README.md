@@ -317,7 +317,11 @@ Here is a curated list of datasets for intelligent document processing.
   <img src="./images/defect detection 2.png" />
     </details>
 ### Medical 
-
+- [BRATS2016](https://www.smir.ch/BRATS/Start2016) BRATS 2016 is a brain tumor segmentation dataset. It shares the same training set as BRATS 2015, which consists of 220 HHG and 54 LGG. Its testing dataset consists of 191 cases with unknown grades.
+    <details>
+  <summary><i>Preview</i></summary>
+  <img src="./images/BRATS2016.jpg" />
+    </details>
 - [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) dataset contains 224,316 chest radiographs of 65,240 patients with both frontal and lateral views available. The task is to do automated chest x-ray interpretation, featuring uncertainty labels and radiologist-labeled reference standard evaluation sets.
     <details>
   <summary><i>Preview</i></summary>
