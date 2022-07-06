@@ -318,6 +318,7 @@ Here is a curated list of datasets for intelligent document processing.
     </details>
 ### Medical 
 - [Open Access Series of Imaging Studies (OASIS)](https://www.oasis-brains.org/) is a retrospective compilation of data for >1000 participants that were collected across several ongoing projects through the WUSTL Knight ADRC over the course of 30 years. Participants include 609 cognitively normal adults and 489 individuals at various stages of cognitive decline ranging in age from 42-95yrs.
+    <details>
   <summary><i>Preview</i></summary>
   <img src="./images/Open Access Series of Imaging Studies (OASIS).png" />
     </details>
