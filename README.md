@@ -286,7 +286,7 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/iSAID.png" />
   </details>
-#### Manufacturing
+### Manufacturing
 - [Coco Car Damage Detection Dataset](https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset ) contains car images with one or more damaged parts. The dataset has 150 images.
    <details>
   <summary><i>Preview</i></summary>
@@ -315,7 +315,11 @@ Here is a curated list of datasets for intelligent document processing.
   <summary><i>Preview</i></summary>
   <img src="./images/defect detection 2.png" />
     </details>
-
+### Medical 
+- [Open Access Series of Imaging Studies (OASIS)](https://www.oasis-brains.org/) is a retrospective compilation of data for >1000 participants that were collected across several ongoing projects through the WUSTL Knight ADRC over the course of 30 years. Participants include 609 cognitively normal adults and 489 individuals at various stages of cognitive decline ranging in age from 42-95yrs.
+  <summary><i>Preview</i></summary>
+  <img src="./images/Open Access Series of Imaging Studies (OASIS).png" />
+    </details>
 # Natural Language Processing
 
 ## Named-Entity Recognition
