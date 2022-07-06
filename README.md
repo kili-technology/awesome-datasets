@@ -232,7 +232,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/break.png" />
   </details>
-
+- [ConvAI2 dataset](http://convai.io/data/ ) The dataset contains more than 2000 dialogs for a PersonaChat contest, where human evaluators recruited through the Yandex.Toloka crowdsourcing platform chatted with bots submitted by teams.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/ConvAI2 dataset.png" />
+  </details>
 - [Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter )  This Kaggle dataset includes more than 3 million tweets and responses from leading brands on Twitter.
   <details>
     <summary><i>Preview</i></summary>
