@@ -257,6 +257,7 @@ Here is a curated list of datasets for intelligent document processing.
 ### Multilingual  
 - [EXCITEMENTS datasets](https://github.com/hltfbk/EOP-1.2.1/wiki/Data-Sets#data-sets-that-have-to-be-downloaded-separately)  These datasets, available in English and Italian, contain negative comments from customers giving reasons for their dissatisfaction with a given company.
 - [OPUS](https://allenai.github.io/Break/)  This corpus was created for the standardization and translation of social media texts. It is built by randomly selecting 2,000 messages from the NUS corpus of SMS in English and then translating them into formal Chinese.
+  <details>  
     <summary><i>Preview</i></summary>
     <img src="./images/OPUS.png" />
   </details>
