@@ -317,6 +317,12 @@ Here is a curated list of datasets for intelligent document processing.
   <img src="./images/defect detection 2.png" />
     </details>
 ### Medical 
+
+- [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) dataset contains 224,316 chest radiographs of 65,240 patients with both frontal and lateral views available. The task is to do automated chest x-ray interpretation, featuring uncertainty labels and radiologist-labeled reference standard evaluation sets.
+    <details>
+  <summary><i>Preview</i></summary>
+  <img src="./images/CheXpert.jpg" />
+    </details>
 - [CT Medical Images](https://www.kaggle.com/datasets/kmader/siim-medical-images) is designed to allow for different methods to be tested for examining the trends in CT image data associated with using contrast and patient age. The data are a tiny subset of images from the cancer imaging archive. They consist of the middle slice of all CT images taken where valid age, modality, and contrast tags could be found. This results in 475 series from 69 different patients.
     <details>
   <summary><i>Preview</i></summary>
