@@ -255,8 +255,8 @@ Here is a curated list of datasets for intelligent document processing.
   </details>
 - [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames )  A set of open dialogue data where the conversation is aimed at accomplishing a task or making a decision - in particular, finding flights and a hotel. The data set contains complex conversations and decisions covering over 250 hotels, flights and destinations.
 ### Multilingual  
-- [EXCITEMENTS datasets](https://github.com/hltfbk/EOP-1.2.1/wiki/Data-Sets#data-sets-that-have-to-be-downloaded-separately)  These datasets, available in English and Italian, contain negative comments from customers giving reasons for their dissatisfaction with a given company.
-- [OPUS](https://allenai.github.io/Break/)  This corpus was created for the standardization and translation of social media texts. It is built by randomly selecting 2,000 messages from the NUS corpus of SMS in English and then translating them into formal Chinese.
+- [EXCITEMENTS datasets](https://github.com/hltfbk/EOP-1.2.1/wiki/Data-Sets#data-sets-that-have-to-be-downloaded-separately)  is available in English and Italian and contain negative comments from customers giving reasons for their dissatisfaction with a given company.
+- [OPUS](https://allenai.github.io/Break/)   was created for the standardization and translation of social media texts. It is built by randomly selecting 2,000 messages from the NUS corpus of SMS in English and then translating them into formal Chinese.
   <details>  
     <summary><i>Preview</i></summary>
     <img src="./images/OPUS .png" />
