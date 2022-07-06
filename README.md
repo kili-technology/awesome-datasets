@@ -258,7 +258,7 @@ Here is a curated list of datasets for intelligent document processing.
 - [SGD (Schema-Guided Dialogue) dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)  containing over 16k of multi-domain conversations covering 16 domains. 
   <details>
     <summary><i>Preview</i></summary>
-    <img src="./images/the Schema-Guided Dialogue dataset.png" />
+    <img src="./images/The Schema-Guided Dialogue Dataset.png" />
   </details>
 - [TREC QA Collection](https://trec.nist.gov/data/qa.html)  has had a track record of answering questions since 1999. In each track, the task was defined so that systems had to retrieve small fragments of text containing an answer to open-domain and closed-domain questions.
   <details>
