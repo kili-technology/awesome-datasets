@@ -280,7 +280,15 @@ Here is a curated list of datasets for intelligent document processing.
    <details>
   <summary><i>Preview</i></summary>
   <img src="./images/Coco Car Damage Detection Dataset.jpg" />
-- [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad/) is a dataset for benchmarking anomaly detection methods with a focus on industrial inspection. It contains over 5000 high-resolution images divided into fifteen different object and texture categories. Each category comprises a set of defect-free training images and a test set of images with various kinds of defects as well as images without defects.
+
+
+  - [DAGM 2007](https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection ) is a synthetic dataset for defect detection on textured surfaces. It was originally created for a competition at the 2007 symposium of the DAGM
+   <details>
+  <summary><i>Preview</i></summary>
+  <img src="./images/DAGM 2007.png" />
+
+     
+     - [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad/) is a dataset for benchmarking anomaly detection methods with a focus on industrial inspection. It contains over 5000 high-resolution images divided into fifteen different object and texture categories. Each category comprises a set of defect-free training images and a test set of images with various kinds of defects as well as images without defects.
    <details>
   <summary><i>Preview</i></summary>
   <img src="./images/MV.png" />
