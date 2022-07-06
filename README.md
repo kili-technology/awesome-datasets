@@ -145,7 +145,7 @@ Here is a curated list of datasets for intelligent document processing.
 - [GHEGA](https://bit.ly/3x6z33q) contains two groups of documents: 110 data-sheets of electronic components and 136 patents. Each group is further divided in classes: data-sheets classes share the component type and producer; patents classes share the patent source.
   <details>
     <summary><i>Preview</i></summary>
-    <img src="./images/GHEGA.jpeg" />
+    <img src="/images/GHEGA.png" />
   </details>
 
 - [XFUND](https://bit.ly/3zly4yW) is a multilingual form understanding benchmark dataset that includes human-labeled forms with key-value pairs in 7 languages (Chinese, Japanese, Spanish, French, Italian, German, Portuguese).
