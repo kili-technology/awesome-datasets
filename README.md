@@ -259,7 +259,7 @@ Here is a curated list of datasets for intelligent document processing.
 - [OPUS](https://allenai.github.io/Break/)  This corpus was created for the standardization and translation of social media texts. It is built by randomly selecting 2,000 messages from the NUS corpus of SMS in English and then translating them into formal Chinese.
   <details>  
     <summary><i>Preview</i></summary>
-    <img src="./images/OPUS.jpeg" />
+    <img src="./images/OPUS.png" />
   </details>
 # Image Processing
 ## Instant Segmentation
