@@ -255,6 +255,11 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/DuReader 2.0.jpg" />
   </details>
 - [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames ) is a set of open dialogue data where the conversation is aimed at accomplishing a task or making a decision - in particular, finding flights and a hotel. The data set contains complex conversations and decisions covering over 250 hotels, flights and destinations.
+- [SGD (Schema-Guided Dialogue) dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)  containing over 16k of multi-domain conversations covering 16 domains. 
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/SGD (Schema-Guided Dialogue) dataset.png" />
+  </details>
 - [TREC QA Collection](https://trec.nist.gov/data/qa.html)  has had a track record of answering questions since 1999. In each track, the task was defined so that systems had to retrieve small fragments of text containing an answer to open-domain and closed-domain questions.
   <details>
     <summary><i>Preview</i></summary>
