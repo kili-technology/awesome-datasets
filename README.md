@@ -302,6 +302,11 @@ Here is a curated list of datasets for intelligent document processing.
 # Image Processing
 ## Instant Segmentation
 ### Defense 
+- [A DATASET FOR DETECTING FLYING AIRPLANES ON SATELLITE IMAGES](https://ieee-dataport.org/open-access/dataset-detecting-flying-airplanes-satellite-images) contains satellite images of areas of interest surrounding 30 different European airports. It also provides ground-truth annotations of flying airplanes in part of those images to support future research involving flying airplane detection. This dataset is part of the work entitled "Measuring economic activity from space: a case study using flying airplanes and COVID-19" published by the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/A DATASET FOR DETECTING FLYING AIRPLANES ON SATELLITE IMAGES.png" />
+  </details>
 - [Airbus Aircraft Detection](https://www.kaggle.com/datasets/airbusgeo/airbus-aircrafts-sample-dataset/download) can be used to detect the number, size and type of aircrafts present on an airport. In turn, this can provide information about the activity of any airport.
   <details>
     <summary><i>Preview</i></summary>
