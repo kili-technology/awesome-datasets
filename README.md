@@ -255,6 +255,11 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/DuReader 2.0.jpg" />
   </details>
 - [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames ) is a set of open dialogue data where the conversation is aimed at accomplishing a task or making a decision - in particular, finding flights and a hotel. The data set contains complex conversations and decisions covering over 250 hotels, flights and destinations.
+- [NarrativeQA](https://github.com/deepmind/narrativeqa)  is a data set constructed to encourage deeper understanding of language. This dataset involves reasoning about reading whole books or movie scripts. This dataset contains approximately 45,000 pairs of free text question-and-answer pairs. 
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/NarrativeQA.png" />
+  </details>
 - [QASC](https://github.com/allenai/qasc) is a question-and-answer data set that focuses on sentence composition. It consists of 9,980 8-channel multiple-choice questions on elementary school science (8,134 train, 926 dev, 920 test), and is accompanied by a corpus of 17M sentences. 
   <details>
     <summary><i>Preview</i></summary>
