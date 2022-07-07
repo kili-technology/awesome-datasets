@@ -298,6 +298,12 @@ Seattle, WA. The video were labeled manually as light, medium, and heavy traffic
     <summary><i>Preview</i></summary>
     <img src="./images/iSAID.png" />
   </details>
+- [Traffic Analysis in Original Video Data of Ayalon Road](https://github.com/ido90/AyalonRoad) Is compose of 81 (14 hours) videos recording the traffic in Ayalon Road. It can detect and track vehicle over consecutive frame.
+
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Traffic Analysis in Original Video Data of Ayalon Road.png" />
+  </details>
 ### Manufacturing
 - [Coco Car Damage Detection Dataset](https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset ) contains car images with one or more damaged parts. The dataset has 150 images.
    <details>
