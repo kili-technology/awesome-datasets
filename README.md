@@ -331,6 +331,11 @@ Seattle, WA. The video were labeled manually as light, medium, and heavy traffic
     <img src="./images/Traffic Analysis in Original Video Data of Ayalon Road.png" />
   </details>
 ### Manufacturing
+- [casting product image data for quality inspection](https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product ) The dataset contains total 7348 image data. These all are the size of (300*300) pixels grey-scaled images. In all images, augmentation already applied.
+   <details>
+  <summary><i>Preview</i></summary>
+  <img src="./images/casting product image data for quality inspection.jpg" />
+     </details>
 - [Coco Car Damage Detection Dataset](https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset ) contains car images with one or more damaged parts. The dataset has 150 images.
    <details>
   <summary><i>Preview</i></summary>
