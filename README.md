@@ -234,6 +234,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/break.png" />
   </details>
+- [chatterbot/english](https://www.kaggle.com/datasets/kausr25/chatterbotenglish)  contains wide variety of topics to train your model with . The bot will get info about various fields. Though you need huge dataset to create a fully fledged bot but it is suitable for starters
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/chatterbotenglish.png" />
+  </details>
 - [ConvAI2 dataset](http://convai.io/data/ ) The dataset contains more than 2000 dialogs for a PersonaChat contest, where human evaluators recruited through the Yandex.Toloka crowdsourcing platform chatted with bots submitted by teams.
   <details>
     <summary><i>Preview</i></summary>
