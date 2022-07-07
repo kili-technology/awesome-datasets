@@ -359,6 +359,11 @@ Seattle, WA. The video were labeled manually as light, medium, and heavy traffic
   <summary><i>Preview</i></summary>
   <img src="./images/defect detection 2.png" />
     </details>
+- [Metadata - Aerial imagery object identification dataset for building and road detection, and building height estimation](https://figshare.com/articles/dataset/Metadata_-_Aerial_imagery_object_identification_dataset_for_building_and_road_detection_and_building_height_estimation/3504413) For 25 locations across 9 U.S. cities, this dataset provides (1) high-resolution aerial imagery; (2) annotations of over 40,000 building footprints (OSM shapefiles) as well as road polylines; and (3) topographical height data (LIDAR). This dataset can be used as ground truth to train computer vision and machine learning algorithms for object identification and analysis, in particular for building detection and height estimation, as well as road detection.
+   <details>
+  <summary><i>Preview</i></summary>
+  <img src="./images/Metadata - Aerial imagery object identification dataset for building and road detection, and building height estimation.jpg" />
+    </details>
 ### Medical 
 - [BRATS2016](https://www.smir.ch/BRATS/Start2016) BRATS 2016 is a brain tumor segmentation dataset. It shares the same training set as BRATS 2015, which consists of 220 HHG and 54 LGG. Its testing dataset consists of 191 cases with unknown grades.
     <details>
