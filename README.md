@@ -286,17 +286,17 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/airbus detection.jpg" />
   </details>
-- [iSAID](https://captain-whu.github.io/iSAID/dataset.html) contain 655 451 object instances from 15 categories across 2 806 high resolution images. iSAID uses pixel-level annotations. The object categories in iSAID include plane, ship, storage tank, baseball diamond, tennis court, basketball court, ground track field, harbor, bridge, large vehicle, small vehicle, helicopter, roundabout, soccer ball field and swimming pool. The images of ISAID are mainly collected from google earth
-
-  <details>
-    <summary><i>Preview</i></summary>
-    <img src="./images/iSAID.png" />
-  </details>
 - [Highway Traffic Videos Dataset](https://www.kaggle.com/datasets/aryashah2k/highway-traffic-videos-dataset) is a database of video of traffic on the highway used in [1] and [2]. The video was taken over two days from a stationary camera overlooking I-5 in
 Seattle, WA. The video were labeled manually as light, medium, and heavy traffic, which correspond respectively to free-flowing traffic, traffic at reduced speed, and stopped or very slow speed traffic.
   <details>
     <summary><i>Preview</i></summary>
     <img src="./images/Highway Traffic Videos Dataset.png" />
+  </details>
+- [iSAID](https://captain-whu.github.io/iSAID/dataset.html) contain 655 451 object instances from 15 categories across 2 806 high resolution images. iSAID uses pixel-level annotations. The object categories in iSAID include plane, ship, storage tank, baseball diamond, tennis court, basketball court, ground track field, harbor, bridge, large vehicle, small vehicle, helicopter, roundabout, soccer ball field and swimming pool. The images of ISAID are mainly collected from google earth
+
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/iSAID.png" />
   </details>
 ### Manufacturing
 - [Coco Car Damage Detection Dataset](https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset ) contains car images with one or more damaged parts. The dataset has 150 images.
