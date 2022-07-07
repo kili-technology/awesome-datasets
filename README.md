@@ -255,6 +255,11 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/DuReader 2.0.jpg" />
   </details>
 - [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames ) is a set of open dialogue data where the conversation is aimed at accomplishing a task or making a decision - in particular, finding flights and a hotel. The data set contains complex conversations and decisions covering over 250 hotels, flights and destinations.
+- [QuAC](https://quac.ai/) is a data set for answering questions in context that contains 14K information-seeking QI dialogues (100K questions in total). Question Answering in Context is a dataset for modeling, understanding, and participating in information-seeking dialogues.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/QuAC.png" />
+  </details>
 - [SGD (Schema-Guided Dialogue) dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)  containing over 16k of multi-domain conversations covering 16 domains. 
   <details>
     <summary><i>Preview</i></summary>
