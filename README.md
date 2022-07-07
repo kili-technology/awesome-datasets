@@ -265,6 +265,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/NarrativeQA.png" />
   </details>
+- [OpenBookQA](https://github.com/allenai/OpenBookQA) inspired by open-book exams to assess human understanding of a subject. The open book that accompanies our questions is a set of 1329 elementary level scientific facts. Approximately 6,000 questions focus on understanding these facts and applying them to new situations.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/OpenBookQA.jpg" />
+  </details>
 - [QASC](https://github.com/allenai/qasc) is a question-and-answer data set that focuses on sentence composition. It consists of 9,980 8-channel multiple-choice questions on elementary school science (8,134 train, 926 dev, 920 test), and is accompanied by a corpus of 17M sentences. 
   <details>
     <summary><i>Preview</i></summary>
