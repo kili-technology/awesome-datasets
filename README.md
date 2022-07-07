@@ -265,6 +265,12 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/TREC QA Collection.png" />
   </details>
+- [The WikiQA corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fmobile%2Fdownload.aspx%3Fp%3D4495da01-db8c-4041-a7f6-7984a4f6a905)  Is a set of publicly available pairs of questions and phrases collected and annotated for research on the answer to open-domain questions. In order to reflect the true information needs of general users, they used Bing query logs as a source of questions. Each question is linked to a Wikipedia page that potentially contains the answer.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/The WikiQA corpus.png" />
+  </details>
+
 
 ### Multilingual  
 - [EXCITEMENTS datasets](https://github.com/hltfbk/EOP-1.2.1/wiki/Data-Sets#data-sets-that-have-to-be-downloaded-separately)  is available in English and Italian and contain negative comments from customers giving reasons for their dissatisfaction with a given company.
