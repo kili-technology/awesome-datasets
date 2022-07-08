@@ -128,7 +128,7 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="https://github.com/clovaai/cord/raw/master/figure/sample.png" />
   </details>
-- [The Kleister NDA dataset](https://arxiv.org/abs/2105.05796) has 540 Non-disclosure Agreements, with 3,229 unique pages and 2,160 entities to extract.
+- [The Kleister NDA dataset](https://github.com/applicaai/kleister-nda) has 540 Non-disclosure Agreements, with 3,229 unique pages and 2,160 entities to extract.
   <details>
     <summary><i>Preview</i></summary>
     <img src="images/The Kleister NDA dataset.png" />
