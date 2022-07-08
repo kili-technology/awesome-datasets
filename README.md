@@ -259,6 +259,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/DuReader 2.0.jpg" />
   </details>
+- [HotpotQA](https://hotpotqa.github.io/)  is a set of question response data that includes natural multi-skip questions, with a strong emphasis on supporting facts to allow for more explicit question answering systems. The data set consists of 113,000 Wikipedia-based QA pairs.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/HotpotQA.png" />
+  </details>
 - [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames ) is a set of open dialogue data where the conversation is aimed at accomplishing a task or making a decision - in particular, finding flights and a hotel. The data set contains complex conversations and decisions covering over 250 hotels, flights and destinations.
 - [NarrativeQA](https://github.com/deepmind/narrativeqa)  is a data set constructed to encourage deeper understanding of language. This dataset involves reasoning about reading whole books or movie scripts. This dataset contains approximately 45,000 pairs of free text question-and-answer pairs. 
   <details>
