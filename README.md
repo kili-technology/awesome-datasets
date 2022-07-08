@@ -438,7 +438,7 @@ Seattle, WA. The video were labeled manually as light, medium, and heavy traffic
   <summary><i>Preview</i></summary>
   <img src="./images/Open Access Series of Imaging Studies (OASIS).jpg" />
     </details>
-- [TMED (Tufts Medical Echocardiogram Dataset)](https://paperswithcode.com/dataset/tmed) contains imagery from 2773 patients and supervised labels for two classification tasks from a small subset of 260 patients (because labels are difficult to acquire). All data is de-identified and approved for release by our IRB. Imagery comes from transthoracic echocardiograms acquired in the course of routine care consistent with American Society of Echocardiography (ASE) guidelines, all obtained from 2015-2020 at Tufts Medical Center.
+- [TMED (Tufts Medical Echocardiogram Dataset)](https://tmed.cs.tufts.edu/data_access.html) contains imagery from 2773 patients and supervised labels for two classification tasks from a small subset of 260 patients (because labels are difficult to acquire). All data is de-identified and approved for release by our IRB. Imagery comes from transthoracic echocardiograms acquired in the course of routine care consistent with American Society of Echocardiography (ASE) guidelines, all obtained from 2015-2020 at Tufts Medical Center.
     <details>
   <summary><i>Preview</i></summary>
   <img src="./images/TMED (Tufts Medical Echocardiogram Dataset).png" />
