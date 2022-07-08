@@ -391,11 +391,6 @@ Seattle, WA. The video were labeled manually as light, medium, and heavy traffic
   <summary><i>Preview</i></summary>
   <img src="./images/casting product image data for quality inspection.jpg" />
      </details>
-- [Coco Car Damage Detection Dataset](https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset ) contains car images with one or more damaged parts. The dataset has 150 images.
-   <details>
-  <summary><i>Preview</i></summary>
-  <img src="./images/Coco Car Damage Detection Dataset.jpg" />
-     </details>
 
 - [DAGM 2007](https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection ) is a synthetic dataset for defect detection on textured surfaces. It was originally created for a competition at the 2007 symposium of the DAGM
    <details>
