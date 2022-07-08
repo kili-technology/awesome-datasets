@@ -265,6 +265,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/NarrativeQA.png" />
   </details>
+- [Natural Questions (NQ),](https://ai.google.com/research/NaturalQuestions) a new large-scale corpus for training and evaluating open-ended question answering systems, and the first to replicate the end-to-end process in which people find answers to questions. NQ is a large corpus, consisting of 300,000 questions of natural origin, as well as human-annotated answers from Wikipedia pages, for use in training in quality assurance systems. In addition, we have included 16,000 examples where the answers (to the same questions) are provided by 5 different annotators, useful for evaluating the performance of the QA systems learned.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Natural Questions (NQ).png" />
+  </details>
 - [OpenBookQA](https://github.com/allenai/OpenBookQA) inspired by open-book exams to assess human understanding of a subject. The open book that accompanies our questions is a set of 1329 elementary level scientific facts. Approximately 6,000 questions focus on understanding these facts and applying them to new situations.
   <details>
     <summary><i>Preview</i></summary>
