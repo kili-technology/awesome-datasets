@@ -126,6 +126,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="images/The Kleister NDA dataset.png" />
   </details>
+- [The Kleister Charity dataset](https://github.com/applicaai/kleister-charity)  consists of 2,788 annual financial reports of charity organizations, with 61,643 unique pages and 21,612 entities to extract.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="images/The Kleister Charity dataset.png" />
+  </details>
 - [NIST](https://bit.ly/3Q7aBaS) The NIST Structured Forms Database consists of 5,590 pages of binary, black-and-white images of synthesized documents: 900 simulated tax submissions, 5,590 images of completed structured form faces, 5,590 text files containing entry field answers.
   <details>
     <summary><i>Preview</i></summary>
