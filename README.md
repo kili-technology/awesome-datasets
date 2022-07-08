@@ -290,6 +290,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/QuAC.png" />
   </details>
+- [RecipeQA](https://hucvl.github.io/recipeqa/)is a set of data for multimodal understanding of recipes. It consists of more than 36,000 pairs of automatically generated questions and answers from approximately 20,000 unique recipes with step-by-step instructions and images. Each RecipeQA question involves multiple modalities such as titles, descriptions or images, and working towards an answer requires (i) a common understanding of images and text, (ii) capturing the temporal flow of events, and (iii) understanding procedural knowledge.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/RecipeQA.png" />
+  </details>
 - [Relational Strategies in Customer Service (RSiCS) Dataset](https://nextit-public.s3-us-west-2.amazonaws.com/rsics.html) A dataset of travel-related customer service data from four sources. Conversation logs from three commercial customer service VIAs and airline forums on TripAdvisor.com during the month of August 2016.
   <details>
     <summary><i>Preview</i></summary>
