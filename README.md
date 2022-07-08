@@ -270,6 +270,11 @@ Here is a curated list of datasets for intelligent document processing.
     <img src="./images/HotpotQA.png" />
   </details>
 - [Maluuba goal-oriented dialogue](https://datasets.maluuba.com/Frames ) is a set of open dialogue data where the conversation is aimed at accomplishing a task or making a decision - in particular, finding flights and a hotel. The data set contains complex conversations and decisions covering over 250 hotels, flights and destinations.
+- [Multi-Domain Wizard-of-Oz dataset (MultiWOZ)](https://aclanthology.org/D18-1547/)  Is a comprehensive collection of written conversations covering multiple domains and topics. The dataset contains 10,000 dialogs and is at least an order of magnitude larger than any previous task-oriented annotated corpus.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Multi-Domain Wizard-of-Oz dataset (MultiWOZ).png" />
+  </details>
 - [NarrativeQA](https://github.com/deepmind/narrativeqa)  is a data set constructed to encourage deeper understanding of language. This dataset involves reasoning about reading whole books or movie scripts. This dataset contains approximately 45,000 pairs of free text question-and-answer pairs. 
   <details>
     <summary><i>Preview</i></summary>
