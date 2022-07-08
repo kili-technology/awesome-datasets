@@ -315,6 +315,12 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/The WikiQA corpus.png" />
   </details>
+- [Ubuntu Dialogue Corpus](https://www.kaggle.com/datasets/rtatman/ubuntu-dialogue-corpus)  Consists of nearly one million two-person conversations from Ubuntu discussion logs, used to receive technical support for various Ubuntu-related issues. The dataset contains 930,000 dialogs and over 100,000,000 words.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Ubuntu Dialogue Corpus.png" />
+  </details>
+
 
 
 ### Multilingual  
