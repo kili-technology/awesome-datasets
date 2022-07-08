@@ -280,6 +280,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/QuAC.png" />
   </details>
+- [Relational Strategies in Customer Service (RSiCS) Dataset](https://nextit-public.s3-us-west-2.amazonaws.com/rsics.html) A dataset of travel-related customer service data from four sources. Conversation logs from three commercial customer service VIAs and airline forums on TripAdvisor.com during the month of August 2016.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Relational Strategies in Customer Service (RSiCS) Dataset.png" />
+  </details>
 - [SGD (Schema-Guided Dialogue) dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)  containing over 16k of multi-domain conversations covering 16 domains. 
   <details>
     <summary><i>Preview</i></summary>
