@@ -310,6 +310,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/Relational Strategies in Customer Service (RSiCS) Dataset.jpg" />
   </details>
+- [Santa Barbara Corpus of Spoken American English](https://www.linguistics.ucsb.edu/research/santa-barbara-corpus) This dataset contains approximately 249,000 words of transcription, audio and timestamp at the individual intonation units.
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Santa Barbara Corpus of Spoken American English.png" />
+  </details>
 - [SGD (Schema-Guided Dialogue) dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)  containing over 16k of multi-domain conversations covering 16 domains. 
   <details>
     <summary><i>Preview</i></summary>
