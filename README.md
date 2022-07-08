@@ -239,6 +239,11 @@ Here is a curated list of datasets for intelligent document processing.
     <summary><i>Preview</i></summary>
     <img src="./images/chatterbotenglish.png" />
   </details>
+- [Coached Conversational Preference Elicitation](https://research.google/tools/datasets/coached-conversational-preference-elicitation/)  with 12,000 annotated statements between a user and a wizard discussing natural language movie preferences. The data were collected using the Oz Assistant method between two paid workers, one of whom acts as an "assistant" and the other as a "user".
+  <details>
+    <summary><i>Preview</i></summary>
+    <img src="./images/Coached Conversational Preference Elicitation.png" />
+  </details>
 - [ConvAI2 dataset](http://convai.io/data/ ) The dataset contains more than 2000 dialogs for a PersonaChat contest, where human evaluators recruited through the Yandex.Toloka crowdsourcing platform chatted with bots submitted by teams.
   <details>
     <summary><i>Preview</i></summary>
